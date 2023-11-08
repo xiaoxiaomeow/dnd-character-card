@@ -1,1 +1,1 @@
-- [双持魔法少女 星 / 蝶](Star&Butterfly.md)
+- [双持魔法少女 星 / 蝶](Xing&Die.md)
