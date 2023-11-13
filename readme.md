@@ -1,1 +1,2 @@
 - [双持魔法少女 星 / 蝶](Xing&Die.md)
+- [loot表](黄金国loot表.md)
