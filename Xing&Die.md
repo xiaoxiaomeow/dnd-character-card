@@ -2,7 +2,8 @@
 ## 星 / 蝶
 
 [黄金国loot表](黄金国loot表.md)
-[1级的星](Xing&Die Level1.md)
+
+[1级的星](Xing&Die,Level1.md)
 
 ----
 
