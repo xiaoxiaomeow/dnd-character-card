@@ -1,2 +1,2 @@
-- [双持魔法少女 星 / 蝶](Xing&Die.md)
-- [loot表](黄金国loot表.md)
+- [黄金国度团，魔法少女 星 / 蝶](promised/Xing&Die.md)
+- [博德之门团，魔法少女 星 / 蝶](baldur's_gate/Xing&Die.md)
