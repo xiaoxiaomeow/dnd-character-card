@@ -6,7 +6,7 @@
 - [魔法少女的购物车](魔法少女的购物车.md)
 - [升级草稿](https://docs.google.com/spreadsheets/d/1N1eLCO2FfNfhGXsIBAEgxGC5TF349JGBbacjRe072AE/edit?usp=sharing)
 
-![alt text](Image_1707873140475.png)
+![alt text](立绘.png)
 
 ----
 
