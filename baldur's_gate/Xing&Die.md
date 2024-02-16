@@ -1,7 +1,11 @@
 # 星 / 蝶
 
 - [当前等级的星](Xing&Die.md)
+- [魔法少女的千招百式笔记](魔法少女的千招百式笔记.md)
+- [魔法少女的购物车](魔法少女的购物车.md)
 - [升级草稿](https://docs.google.com/spreadsheets/d/1N1eLCO2FfNfhGXsIBAEgxGC5TF349JGBbacjRe072AE/edit?usp=sharing)
+
+![alt text](Image_1707873140475.png)
 
 ----
 
