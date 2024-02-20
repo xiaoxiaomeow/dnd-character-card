@@ -7,10 +7,8 @@
 - [魔法少女的购物车](魔法少女的购物车.md)
 - [升级草稿](https://docs.google.com/spreadsheets/d/1N1eLCO2FfNfhGXsIBAEgxGC5TF349JGBbacjRe072AE/edit?usp=sharing)
 
-![alt text](立绘.png)
-
-![alt text](气化形体的蝶.png)
-
+![alt text](立绘1.png)
+![alt text](立绘2.png)
 ----
 
 - 种族：半精灵
@@ -310,7 +308,6 @@
 </details>
 
 ----
-----
 
 # 花
 
@@ -432,7 +429,6 @@
 幻灵变得十分擅长某项技能，它在该项技能上获得+8种族加值。这项进化可以被选取多次。它的效果不会叠加。幻灵每次选取这项进化，都要应用至不同的技能上。
 </details>
 
-----
 ----
 
 # 法术速查
