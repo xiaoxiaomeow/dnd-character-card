@@ -7,8 +7,12 @@
 - [魔法少女的购物车](魔法少女的购物车.md)
 - [升级草稿](https://docs.google.com/spreadsheets/d/1N1eLCO2FfNfhGXsIBAEgxGC5TF349JGBbacjRe072AE/edit?usp=sharing)
 
-![alt text](立绘1.png)
-![alt text](立绘2.png)
+![alt text](星.png)
+![alt text](蝶1.png)
+<!--
+masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair), blue eyes) wearing white shirt, blue skirt and butterfly wings
+-->
+
 ----
 
 - 种族：半精灵
