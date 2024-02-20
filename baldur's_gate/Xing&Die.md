@@ -1,17 +1,17 @@
 # 星 / 蝶
 
+![alt text](星.png)
+![alt text](蝶1.png)
+<!--
+masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair), blue eyes) wearing white shirt, blue skirt and butterfly wings
+-->
+
 - [当前等级的星](Xing&Die.md)
 - [1级的星](Xing&Die,level1.md)
 - [魔法少女的背包](魔法少女的背包.md)
 - [魔法少女的千招百式笔记](魔法少女的千招百式笔记.md)
 - [魔法少女的购物车](魔法少女的购物车.md)
 - [升级草稿](https://docs.google.com/spreadsheets/d/1N1eLCO2FfNfhGXsIBAEgxGC5TF349JGBbacjRe072AE/edit?usp=sharing)
-
-![alt text](星.png)
-![alt text](蝶1.png)
-<!--
-masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair), blue eyes) wearing white shirt, blue skirt and butterfly wings
--->
 
 ----
 
