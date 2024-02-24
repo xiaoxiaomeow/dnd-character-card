@@ -106,7 +106,7 @@
 
 <details>
 <summary>
-半精灵奖励专长：擅长异种武器 Exotic Weapon Proficiency，锤剑 Estoc
+半精灵奖励专长：擅长异种武器 Exotic Weapon Proficiency，锥剑 Estoc
 </summary>
 
 （先决条件：基本攻击加值+1）
