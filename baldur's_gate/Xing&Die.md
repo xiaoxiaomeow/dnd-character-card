@@ -35,7 +35,7 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 - AC16：基础10+腹卷1(盔甲)+敏调5
 - 措手不及AC11：基础10+腹卷1(盔甲)
 - 接触AC15：基础10+敏调5
-- CMD13：基础10+BAB1+力调-2+敏调5
+- CMD14：基础10+BAB1+力调-2+敏调5
 - 强韧+2：基础0+体调2
 - 反射+8：基础3+敏调5
 - 意志+1/+3：基础3+感调-2+[精灵免疫2(种族)]
