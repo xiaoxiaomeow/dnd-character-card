@@ -93,6 +93,7 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 ### 已知法术
 
 - 戏法4：[侦测魔法](#侦测魔法) [阅读魔法](#阅读魔法) [神导术](#神导术) [光亮术](#光亮术)
+- 一环2：[油腻术](#油腻术)（DC14） [惧刺锁链](#惧刺锁链)（CMB+4） [长臂咒](#长臂咒)
 - 一环2：[油腻术](#油腻术)（DC13） [惧刺锁链](#惧刺锁链)（CMB+2） [长臂咒](#长臂咒)
 
 ### 环位数量
@@ -112,7 +113,7 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 
 <details>
 <summary>
-半精灵奖励专长：擅长异种武器 Exotic Weapon Proficiency，锤剑 Estoc
+半精灵奖励专长：擅长异种武器 Exotic Weapon Proficiency，锥剑 Estoc
 </summary>
 
 （先决条件：基本攻击加值+1）
