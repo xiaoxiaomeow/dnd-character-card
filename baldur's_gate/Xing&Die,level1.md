@@ -48,6 +48,7 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 - 移动速度30尺
 - BAB：0
 - CMB-2：BAB0+力调-2
+- 摔绊/卸武/破武CMB+5：BAB0+敏调5
 - 近战攻击命中+5：BAB0+敏调5
 - 近战攻击伤害-2：力调-2
 - - 旋棍，+5命中，1d6-2穿刺，20/x2
@@ -304,7 +305,7 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 - CMB+0：BAB0+敏调2+体型-2
 - 近战攻击命中+4：BAB0+敏调2+体型2
 - 近战攻击伤害-4：力调-4
-- - 啮咬，钝击/穿刺/挥砍，触及5尺，1d3-4
+- - 啮咬，+4命中，1d6-6钝击/穿刺/挥砍
 
 ----
 
@@ -312,7 +313,7 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 
 - 力量2（-4）：基础2
 - 敏捷15（+2）：基础15
-- 体质8（-2）：基础8
+- 体质8（-1）：基础8
 - 智力6（-2）：基础2，魔宠智力=6
 - 感知15（+2）：基础15
 - 魅力7（-2）：基础7
