@@ -51,7 +51,7 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 - 摔绊/卸武/破武CMB+5：BAB0+敏调5
 - 近战攻击命中+5：BAB0+敏调5
 - 近战攻击伤害-2：力调-2
-- - 旋棍，+5命中，1d6-2穿刺，20/x2
+- - 旋棍，+5命中，1d6-2钝击，20/x2
 
 ----
 
