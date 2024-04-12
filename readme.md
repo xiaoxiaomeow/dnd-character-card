@@ -1,4 +1,5 @@
 - [黄金国度团，魔法少女 星 / 蝶](promised/Xing&Die.md)
 - [博德之门团，魔法少女 星 / 蝶](baldur's_gate/Xing&Die.md)
-- [崖巡特警团，审判者 星](AgentsOfEdgewatch/星.md)
-- [狮窝晚餐，吟游诗人 星](DinnerAtLionLodge/星.md)
+- [崖巡特警团，审判者 星](agents_of_edgewatch/星.md)
+- [狮窝晚餐，吟游诗人 星](dinner_at_lion_lodge/星.md)
+- [地狱复仇，审判者 星](hell's_vengeance/星.md)
