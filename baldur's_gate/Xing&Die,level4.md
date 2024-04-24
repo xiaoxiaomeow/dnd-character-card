@@ -1,6 +1,7 @@
 # 星 / 蝶
 
 ![alt text](星.png)
+![alt text](蝶1.png)
 <!--
 masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair), blue eyes) wearing white shirt, blue skirt and butterfly wings
 -->
@@ -9,7 +10,6 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 - [1级的星](Xing&Die,level1.md)
 - [2级的星](Xing&Die,level2.md)
 - [3级的星](Xing&Die,level3.md)
-- [4级的星](Xing&Die,level4.md)
 - [魔法少女的背包](魔法少女的背包.md)
 - [魔法少女的千招百式笔记](魔法少女的千招百式笔记.md)
 - [魔法少女的购物车](魔法少女的购物车.md)
@@ -26,14 +26,14 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 - 体重：102磅
 - 体型：中型
 - 语言：通用语，精灵语，龙语，天界语
-- 职业：侠客5
+- 职业：侠客4
 - 变体：魔法少女/异能织者
 
 ----
 
 ## 防御
 
-- HP43（5HD）：生命骰8+体调2+天赋职业奖励1+(生命骰5+体调2+天赋职业奖励1)*4
+- HP35（4HD）：生命骰8+体调2+天赋职业奖励1+(生命骰5+体调2+天赋职业奖励1)*3
 - AC18：基础10+腹卷1(盔甲)+敏调5+防护戒指1(偏斜)+天防护符1(天防增强)
 - 措手不及AC13：基础10+腹卷1(盔甲)+防护戒指1(偏斜)+天防护符1(天防增强)
 - 接触AC16：基础10+敏调5+防护戒指1(偏斜)
@@ -84,14 +84,14 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 
 - 飞行+13：敏调5+技能点1+本职技能3+机动性良好4
 - 逃脱+11：敏调5+技能点1+本职技能3+精制品工具2(环境)
-- **特技**+15：敏调5+技能点5+本职技能3+精制品工具2(环境)
-- **法术辨识**+12/+16：智调2+技能点5+本职技能3+精制品工具2(环境)+[社交优雅4(环境)]
-- **交涉**+12/+16：魅调2+技能点5+本职技能3+精制品工具2(环境)+[社交优雅4(环境)]
-- **唬骗**+12：魅调2+技能点5+本职技能3+精制品工具2(环境)
+- 特技+11：敏调5+技能点3+本职技能3
+- **法术辨识**+11：智调2+技能点4+本职技能3+精制品工具2(环境)
+- **交涉**+11：魅调2+技能点4+本职技能3+精制品工具2(环境)
+- **唬骗**+9：魅调2+技能点4+本职技能3
 - 威吓+6：魅调2+技能点1+本职技能3
 - 知识（位面）+6：魅调2+技能点1+本职技能3
 - 知识（神秘）+6：魅调2+技能点1+本职技能3
-- **UMD**+12：魅调2+技能点5+本职技能3+精制品工具2(环境)
+- **UMD**+9：魅调2+技能点4+本职技能3
 
 ----
 
@@ -108,18 +108,17 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 [法师之手](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=mage%20hand)
 - 一环4：
 [油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=grease)（DC13）
+[惧刺锁链](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=barbed%20chains)（CMB+4）
 [长臂咒](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=long%20arm)
 [缩小术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=reduce%20person)
-[护盾术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=shield)
 - 二环2：
 [加速术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=haste)
 [缓慢术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=slow)
-[超越之障](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=ablative%20barrier)
 
 ### 环位数量
 
-- 一环5：基础4+属性奖励1
-- 二环3：基础2+属性奖励1
+- 一环4：基础3+属性奖励1
+- 二环2：基础1+属性奖励1
 
 ----
 
@@ -127,54 +126,26 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 
 <details>
 <summary>
-1级：武器娴熟 (Weapon Finesse) <sup>CRB</sup>〔战斗〕
+1级：武器娴熟 Weapon Finesse
 </summary>
-
-你善于在近身战斗中使用敏捷代替蛮力。
-
-专长效果: 使用适于你体型的轻型武器、细剑、长鞭、刺链时，你可以在攻击检定中改为使用敏捷修正，而非力量修正。若你持用盾牌，攻击检定会受到盾牌的防具检定减值。
-
-特殊说明: 天生武器视为轻型武器。
+使用适于你体型的轻型武器、细剑、长鞭、刺链时，你可以在攻击检定中改为使用敏捷修正，而非力量修正。若你持用盾牌，攻击检定会受到盾牌的防具检定减值。
 </details>
 
 <details>
 <summary>
-擅长异种武器 (Exotic Weapon Proficiency) <sup>CRB</sup>〔战斗〕，锥剑
+半精灵奖励专长：擅长异种武器 Exotic Weapon Proficiency，锥剑 Estoc
 </summary>
 
-选择一种异种武器，例如刺链或长鞭。你了解如何使用该种异种武器进行战斗，并能够利用该异种武器可能提供的特性和技巧。
+（先决条件：基本攻击加值+1）
 
-先决条件: BAB+1。
-
-专长效果: 使用该异种武器的攻击检定正常。
-
-通常状况: 使用不擅长的武器其攻击检定有-4减值。
-
-特殊说明: 你可以多次选择本专长，每次都需要选择一种新的异种武器。
+专长效果：使用该异种武器的攻击检定正常。
 </details>
 
 <details>
 <summary>
-3级：战斗反射 (Combat Reflexes) <sup>CRB</sup>〔战斗〕
+3级：战斗反射 Combat Reflexes
 </summary>
-
-你能进行额外的借机攻击。
-
-专长效果: 每轮你能获得等同于敏捷修正次数的额外借机攻击。同样，你在措手不及的情况下，也能进行借机攻击。
-
-通常状况: 没有这个专长的角色每轮只能进行1次借机攻击，并且在措手不及时不能进行借机攻击。
-</details>
-
-<details>
-<summary>
-5级：制造魔法武器和防具 (Craft Magic Arms and Armor) <sup>CRB</sup>〔造物〕
-</summary>
-
-你能制造魔法盔甲，盾牌和武器。
-
-先决条件: 施法者等级5级。
-
-专长效果: 你能制造魔法盔甲，盾牌和武器。为一件武器、一套盔甲或盾牌附魔需要的时间为：附加的魔法特性的价格每增加1000gp，工期增加1天。加工所需耗材的价格为成品价格的一半。更多信息请参见魔法物品规则。将被附魔的武器、盔甲或盾牌必须为精制品，其成本不在上述之列。你还可以修理损坏的武器、盔甲或盾牌，只要你能制造它。修理耗费一半制造该物品所需的原料和时间。
+每轮你能获得等同于敏捷修正次数的额外借机攻击。同样，你在措手不及的情况下，也能进行借机攻击。
 </details>
 
 ----
@@ -297,19 +268,11 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 2级起，秘学士习得如何通过调查物品阅读信息。用此法调查物品需要他花费1分钟时间操弄该物品。若物品为魔法物品，他会知道它的特性和命令字，如同成功使用侦测魔法并且法术辨识检定成功一般。若秘学士职业等级低于物品的施法者等级，他将不会揭露出诅咒物品的存在。如果物品有任何历史意义，秘学士可得知一部分关于过去的信息（由GM决定）。最后，若某物品距离最后一次使用时的天数不超过每秘学士等级1天，他可得知该物品最后一个使用者的部分信息。这种信息可以是使用者外表的一瞥，关于最后一次使用时的短暂景象或者最后一次使用时使用者的心情。由GM决定到底会获得何种什么信息。这种效果类似于psychometry异能技能解放（见本书196页），但无需技能检定且可以任意使用。
 </details>
 
-<details>
-<summary>
-惊愕现身 Startling Appearance
-</summary>
-
-在5级时，侠客学会了如何利用他人的惊讶作为自己的优势，他总是能在自己的目标毫无知觉的时候突然冒出来。每当拥有本能力的侠客尝试对一个完全没有意识到他的存在（比如通过隐形效果或是维持潜行）的敌人发动一次攻击时，直到侠客的本回合结束前这个目标都视为对他措手不及（直觉闪避和类似效果仍然能避免该状态，除非侠客的侠客等级比该目标至少高4级）。除此之外，在侠客的下一回合开始前，该对手对他发动的所有攻击也在攻击检定上承受-4减值。
-</details>
-
 ### 社交天赋
 
 <details>
 <summary>
-1级：声誉 Renown（Ex），博德之门随便哪个有冒险者用品商店的街区
+1级：声誉 Renown（Ex），烛堡
 </summary>
 
 侠客的作为和能力为他赢得了相当的知名度，无论他目前的身份是公开的或是私下的。声誉让侠客可以在进行社交时更为圆滑轻松，或是在他披上假面打击敌人时用名声威吓自己的对手。
@@ -326,14 +289,6 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 3级：熟人价 Celebrity Discount（Ex）
 </summary>
 在他活动的地方，侠客的身份现在都成为了相当知名的人物 - 只要侠客身处自己拥有声誉的地区，人们就会慷慨地为他的购物提供折扣。每当侠客在他拥有声誉影响的地区购买一件价格不超过500GP的物品时他可以自动享受10%的折扣而非必须付全价。如果侠客拥有高级声誉天赋的话，这个GP限制上升到2000GP；如果侠客拥有超卓声誉天赋的话，这个GP限制上升到8000GP。侠客必须达到3级并且拥有声誉社交天赋才能选择本天赋。
-</details>
-
-<details>
-<summary>
-5级：社交优雅 Social Grace（EX），法术辨识，交涉
-</summary>
-
-侠客可以选择任何一个除察觉与使用魔法装置外的基于智力，感知或魅力的技能，每当侠客处于他的社交身份时，他就可以在该技能的技能检定上获得+4环境加值。在5级和之后每提升4个等级时，侠客可以选择一个新的技能（限制同上）获得本天赋的好处。
 </details>
 
 ### 灵气学派和灵气之力
@@ -417,11 +372,11 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 
 ## 防御
 
-- HP12（5HD）：生命骰5-体调1+(生命骰3-体调1)*4
+- HP10（4HD）：生命骰5-体调1+(生命骰3-体调1)*3
 - AC15：基础10+体型2+敏调2+魔宠天防1(天防)
 - 措手不及AC13：基础10+体型2+魔宠天防1(天防)
 - 接触AC14：基础10+体型2+敏调2
-- CMD8：基础10+BAB2+力调-4+敏调2+体型-2
+- CMD7：基础10+BAB1+力调-4+敏调2+体型-2
 - 强韧+2：基础2+1+体调-1
 - 反射+5：基础2+1+敏调2
 - 意志+3：基础0+1+感调2
@@ -432,11 +387,11 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 
 - 先攻+2：敏调2
 - 移动速度10尺，40尺飞行（一般）
-- BAB：2
-- CMB+2：BAB2+敏调2+体型-2
-- 近战攻击命中+6：BAB2+敏调2+体型2
+- BAB：1
+- CMB+1：BAB1+敏调2+体型-2
+- 近战攻击命中+5：BAB1+敏调2+体型2
 - 近战攻击伤害-4：力调-4
-- - 啮咬，+6命中，1d6-6钝击/穿刺/挥砍
+- - 啮咬，+5命中，1d6-6钝击/穿刺/挥砍
 
 ----
 
@@ -445,7 +400,7 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 - 力量2（-4）：基础2
 - 敏捷15（+2）：基础15
 - 体质8（-1）：基础8
-- 智力11（+0）：基础2，魔宠智力=8+属性成长1+属性强化2
+- 智力7（-2）：基础2，魔宠智力=7
 - 感知15（+2）：基础15
 - 魅力7（-2）：基础7
 
@@ -458,7 +413,6 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 - 特技+8：敏调2+分享技能点3+本职技能3
 - 飞行+10：敏调2+分享技能点1+本职技能3+超小型4
 - 察觉+22：感调2+技能点4+本职技能3+技能专攻3+技能精通8[种族]+精制品工具2(环境)
-- 工艺(珠宝)：感调2+技能点4+本职技能3+技能专攻3+技能精通8[种族]+精制品工具2(环境)
 
 ----
 
@@ -512,39 +466,25 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 
 <details>
 <summary>
-法术共享（Share Spells, Ex）
+法术共享 Share Spells（Ex）
 </summary>
 魔法少女可以将目标为〔自身〕的法术施展在魔宠身上（如同接触法术）而不是自己身上。即使某些法术通常不会影响魔宠生物类型（魔法兽），主人也可以用这种方式和魔宠共享该法术。
 </details>
 
-<details>
-<summary>
-情感连接（Empathic Link, Su）
-</summary>
-主人和他的魔宠之间有着内心上的连接，情感连接的最远距离为1英里。主人无法用他魔宠的双眼去看，但是他们彼此分享心灵。由于这种连接的天生限制，只有一般的心灵感受可以被传递。因为这种情感链接，主人对那些他魔宠曾经遇上的事物或去过的地点也会建立起相同的关联。
-</details>
-
-幻灵进化（可分配4进化点）：
+幻灵进化（可分配3进化点）：
 
 <details>
 <summary>
-触及（Reach, Ex），啮咬，1进化点
+触及 Reach（Ex），啮咬，1进化点
 </summary>
 幻灵的一个攻击可以隔着一定距离对敌人发动攻击。选择一个攻击（one attack）。幻灵的这个攻击的触及范围增加5尺。
 </details>
 
 <details>
 <summary>
-技能精通（Skilled, Ex），察觉，1进化点
+技能精通 Skilled（Ex），察觉，隐匿，2进化点
 </summary>
 幻灵变得十分擅长某项技能，它在该项技能上获得+8种族加值。这项进化可以被选取多次。它的效果不会叠加。幻灵每次选取这项进化，都要应用至不同的技能上。
-</details>
-
-<details>
-<summary>
-属性强化（Ability Increase，Ex），智力，2进化点
-</summary>
-幻灵的拥有更强的力量、更加迅捷的反应、变得更加聪慧或者其他某一项属性得到强化。幻灵的一种属性增加2点。这项进化可以被选取多次。但是对于任意一种属性来说，这项进化仅能应用1次，召唤师每具有6个等级时可以额外再应用1次。
 </details>
 
 ----

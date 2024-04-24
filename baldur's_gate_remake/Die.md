@@ -1,40 +1,32 @@
 # 星 / 蝶
 
-![alt text](星.png)
+![alt text](蝶2.png)
 <!--
 masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair), blue eyes) wearing white shirt, blue skirt and butterfly wings
 -->
 
-- [当前等级的星](Xing&Die.md)
-- [1级的星](Xing&Die,level1.md)
-- [2级的星](Xing&Die,level2.md)
-- [3级的星](Xing&Die,level3.md)
-- [4级的星](Xing&Die,level4.md)
-- [魔法少女的背包](魔法少女的背包.md)
-- [魔法少女的千招百式笔记](魔法少女的千招百式笔记.md)
-- [魔法少女的购物车](魔法少女的购物车.md)
-- [升级草稿](https://docs.google.com/spreadsheets/d/1N1eLCO2FfNfhGXsIBAEgxGC5TF349JGBbacjRe072AE/edit?usp=sharing)
+- [当前等级的蝶](Die.md)
 
 ----
 
 - 种族：半精灵
 - 性别：女
-- 阵营：绝对中立 / 混乱善良
-- 信仰：无 / 塞伦涅
+- 阵营：混乱善良
+- 信仰：塞伦涅
 - 年龄：16岁
 - 身高：5尺
 - 体重：102磅
 - 体型：中型
 - 语言：通用语，精灵语，龙语，天界语
-- 职业：侠客5
-- 变体：魔法少女/异能织者
+- 职业：吟游诗人5
+- 变体：-
 
 ----
 
 ## 防御
 
-- HP43（5HD）：生命骰8+体调2+天赋职业奖励1+(生命骰5+体调2+天赋职业奖励1)*4
-- AC18：基础10+腹卷1(盔甲)+敏调5+防护戒指1(偏斜)+天防护符1(天防增强)
+- HP43（5HD）：生命骰8+5\*4+体调3\*5
+- AC10：基础10+腹卷1(盔甲)+敏调5+防护戒指1(偏斜)+天防护符1(天防增强)
 - 措手不及AC13：基础10+腹卷1(盔甲)+防护戒指1(偏斜)+天防护符1(天防增强)
 - 接触AC16：基础10+敏调5+防护戒指1(偏斜)
 - CMD17：基础10+BAB3+力调-2+敏调5+防护戒指1(偏斜)
@@ -63,35 +55,32 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 ## 属性
 
 - 力量7（-2）：基础7
-- 敏捷21（+5）：基础18+种族2+属性成长1
-- 体质14（+0）：基础14
-- 智力14（+2）：基础14
-- 感知7（-2）：基础7
-- 魅力14（+2）：基础14
+- 敏捷10（+0）：基础10
+- 体质16（+3）：基础16
+- 智力10（+0）：基础10
+- 感知12（+1）：基础12
+- 魅力21（+5）：基础21
 
 ----
 
 ## 技能
 
-本职技能：
-- 力量技能：攀爬，游泳
-- 敏捷技能：特技，逃脱，骑术，巧手，隐匿
-- 智力技能：估价，工艺，知识（历史），知识（本地），知识（贵族）
-- 感知技能：专业，察言观色
-- 魅力技能：唬骗，交涉，易容，威吓，表演，使用魔法装置，知识（神秘），知识（位面）
+吟游诗人本职技能：
+- 力量技能：攀爬
+- 敏捷技能：特技，脱逃，巧手
+- 智力技能：估价，工艺，知识（其它），语言学，法术辨识
+- 感知技能：察觉，专业，察言观色
+- 魅力技能：唬骗，交涉，易容，威吓，表演，使用魔法装置，知识（地城、历史、地方、贵族）
 
-技能点6/等级：魔法少女4+智调2
-
-- 飞行+13：敏调5+技能点1+本职技能3+机动性良好4
-- 逃脱+11：敏调5+技能点1+本职技能3+精制品工具2(环境)
-- **特技**+15：敏调5+技能点5+本职技能3+精制品工具2(环境)
-- **法术辨识**+12/+16：智调2+技能点5+本职技能3+精制品工具2(环境)+[社交优雅4(环境)]
-- **交涉**+12/+16：魅调2+技能点5+本职技能3+精制品工具2(环境)+[社交优雅4(环境)]
-- **唬骗**+12：魅调2+技能点5+本职技能3+精制品工具2(环境)
-- 威吓+6：魅调2+技能点1+本职技能3
-- 知识（位面）+6：魅调2+技能点1+本职技能3
-- 知识（神秘）+6：魅调2+技能点1+本职技能3
-- **UMD**+12：魅调2+技能点5+本职技能3+精制品工具2(环境)
+技能点6/等级：吟游诗人6
+- 表演（演讲）/察言观色/交涉+13：魅调5+技能点2+本职技能3+精制品工具2(环境)+表演家1(背景)
+- 唬骗+10：魅调5+技能点2+本职技能3
+- 威吓+10：魅调5+技能点2+本职技能3
+- 知识（地方）+13：魅调5+技能点2+本职技能3+逸闻知识1+精制品工具2(环境)
+- 知识（地城）+10：魅调5+技能点1+本职技能3+逸闻知识1
+- 知识（历史）+10：魅调5+技能点1+本职技能3+逸闻知识1
+- 知识（贵族）+10：魅调5+技能点1+本职技能3+逸闻知识1
+- 知识（奥秘）+5：技能点1+本职技能3+逸闻知识1
 
 ----
 
@@ -99,22 +88,8 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 
 ### 已知法术
 
-- 戏法6：
-[侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=detect%20magic)
-[阅读魔法](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=read%20magic)
-[神导术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=guidance)
-[光亮术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=light)
-[开关术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=open-close)
-[法师之手](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=mage%20hand)
-- 一环4：
-[油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=grease)（DC13）
-[长臂咒](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=long%20arm)
-[缩小术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=reduce%20person)
-[护盾术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=shield)
-- 二环2：
-[加速术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=haste)
-[缓慢术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=slow)
-[超越之障](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=ablative%20barrier)
+- 戏法7（基础5+FCB2）：[幻音术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=ghost%20sound)、[侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=detect%20magic)、[光亮术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=light)、[法师之手](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=mage%20hand)、[传讯术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=message)、[开关术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=open-close)、[火花术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=spark)
+- 一环3：[魅惑人类](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=charm%20person)、[无声幻影](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=silent%20image)、[记忆空白](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=charm%20person)
 
 ### 环位数量
 
@@ -127,42 +102,50 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 
 <details>
 <summary>
-1级：武器娴熟 (Weapon Finesse) <sup>CRB</sup>〔战斗〕
+1级：贵族后裔 (Noble Scion) <sup>PCS-ISWG</sup>，战争之子
 </summary>
 
-你善于在近身战斗中使用敏捷代替蛮力。
+你是一个充满自豪的贵族家庭的一员，无论你是否在你的家族中有着良好的声誉。
 
-专长效果: 使用适于你体型的轻型武器、细剑、长鞭、刺链时，你可以在攻击检定中改为使用敏捷修正，而非力量修正。若你持用盾牌，攻击检定会受到盾牌的防具检定减值。
+先决条件: 魅力13，必须在1级选取。
 
-特殊说明: 天生武器视为轻型武器。
+专长效果: 你的知识（贵族）检定获得+2加值，并且该知识技能总是你的本职技能。
+
+当你选择该专长时，从后述列表中选择一种与你的贵族家庭风格相符的优势。请与你的DM协商来确保你所选择的选项是合适的。
+
+艺术之子：你的所有表演检定获得+1加值，并且表演总是你的本职技能。如果你拥有吟游诗人表演能力，那么你每日能够额外使用该能力3轮。
+
+知识之子：你所拥有的所有至少有1级的知识技能均会获得+1加值。
+
+魔法之子：你从后述语言中选择1个作为奖励语言：深渊语（Abyssal），邪灵语（Aklo），天界语（Celestial），龙语（Draconic），炼狱语（Infernal）或者木族语（Sylvan）。每日1次以自由动作，你能够在任何由你进行的法术辨识检定中获得+2加值。你必须在进行检定之前花费自由动作以获得加值。
+
+安宁之子：每当你在使用基于感知的技能取十时，则视为你骰出13而非10点作为结果。
+
+战争之子：你使用你的魅力调整值来调整先攻检定，而非使用你的敏捷调整值。
 </details>
 
 <details>
 <summary>
-擅长异种武器 (Exotic Weapon Proficiency) <sup>CRB</sup>〔战斗〕，锥剑
+半精灵赠送：技能专攻 (Skill Focus) <sup>CRB</sup>，奥秘
 </summary>
 
-选择一种异种武器，例如刺链或长鞭。你了解如何使用该种异种武器进行战斗，并能够利用该异种武器可能提供的特性和技巧。
+选择一项技能。你特别擅长该技能。
 
-先决条件: BAB+1。
+专长效果: 你在所有涉及该技能的检定上获得+3加值。如果你该技能的等级为10或更高，此加值提升为+6。
 
-专长效果: 使用该异种武器的攻击检定正常。
-
-通常状况: 使用不擅长的武器其攻击检定有-4减值。
-
-特殊说明: 你可以多次选择本专长，每次都需要选择一种新的异种武器。
+特殊说明: 你可以多次选取此专长。其效果不叠加。每次你获得此专长时，它作用于一种新技能。
 </details>
 
 <details>
 <summary>
-3级：战斗反射 (Combat Reflexes) <sup>CRB</sup>〔战斗〕
+3级：悠远血脉 (Eldritch Heritage) <sup>UM</sup>，奥秘
 </summary>
 
-你能进行额外的借机攻击。
+你是历史悠久的术士家族的后裔，一些血统力量流淌在你的血液之中。
 
-专长效果: 每轮你能获得等同于敏捷修正次数的额外借机攻击。同样，你在措手不及的情况下，也能进行借机攻击。
+先决条件: 魅力13，对应你为此专长所选择血统的技能专攻（见下文），角色等级3级。
 
-通常状况: 没有这个专长的角色每轮只能进行1次借机攻击，并且在措手不及时不能进行借机攻击。
+专长效果: 选择一个术士血统。你必须拥有选择血统1级时赋予术士额外本职技能所对应的“技能专攻”（例如天界血统为医疗技能）。所选的血统不能是你已经拥有的血统。你获得所选血统的1级血统力量。在使用所选择的能力时，将你的“角色等级-2”作为术士等级，即使你已经拥有术士等级也是如此。你不会得到其它血统能力。
 </details>
 
 <details>
