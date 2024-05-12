@@ -11,21 +11,21 @@
 - 体重：102磅
 - 体型：中型
 - 语言：通用语，水族语
-- 职业：吟游诗人2
+- 职业：吟游诗人1
 - 变体：哀歌咏者
 
 ----
 
 ## 防御
 
-- HP21（2HD）：生命骰8+体调3+FCB1+生命骰5+体调3+FCB1
+- HP12（1HD）：生命骰8+体调3+FCB1
 - AC17：基础10+皮板鳞甲4(盔甲)+敏调3
 - 措手不及AC14：基础10+皮板鳞甲4(盔甲)
 - 接触AC13：基础10+敏调3
-- CMD12：基础10+BAB1+力调-2+敏调3
-- 强韧+4：基础0+体调3+防护斗篷1(抗力)
-- 反射+7：基础3+敏调3+防护斗篷1(抗力)
-- 意志+5：基础3+感调0+法老血脉1(背景)+防护斗篷1(抗力)
+- CMD11：基础10+BAB0+力调-2+敏调3
+- 强韧+3：基础0+体调3
+- 反射+5：基础2+敏调3
+- 意志+3：基础2+感调0+法老血脉1(背景)
 
 ----
 
@@ -33,7 +33,7 @@
 
 - 先攻+5：敏调3+反制者2(背景)
 - 移动速度5尺：基础5，40尺游泳
-- BAB：1
+- BAB：0
 
 ----
 
@@ -57,14 +57,10 @@
 - 感知技能：察觉，专业，察言观色
 - 魅力技能：唬骗，交涉，易容，威吓，表演，使用魔法装置，知识（地城、历史、地方、贵族）
 
-技能点7/等级：吟游诗人6+智调1
-- 脱逃+7：敏调3+技能点1+本职技能3
-- 表演（歌唱）+12：魅调5+技能点2+本职技能3+海中歌者2(种族)
-- 交涉+10：魅调5+技能点2+本职技能3
+技能点6/等级：吟游诗人6
+- 表演（歌唱）+11：魅调5+技能点1+本职技能3+海中歌者2(种族)
+- 交涉+9：魅调5+技能点1+本职技能3
 - 唬骗+9：魅调5+技能点1+本职技能3
-- 威吓+9：魅调5+技能点1+本职技能3
-- 易容+9：魅调5+技能点1+本职技能3
-- 法术辨识+5：智调1+技能点2+本职技能3
 - 知识（地方）+10：魅调5+技能点1+本职技能3+逸闻知识1
 - 知识（地城）+10：魅调5+技能点1+本职技能3+逸闻知识1
 - 知识（贵族）+11：魅调5+技能点1+本职技能3+逸闻知识1+法老血脉1(背景)
@@ -76,12 +72,12 @@
 
 ### 已知法术
 
-- 戏法5：[幻音术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=ghost%20sound)、[侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=detect%20magic)、[传讯术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=message)、[开关术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=open-close)、[法师之手](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=mage%20hand)
-- 一环3+1：[欲火焚身](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=unnatural%20lust)（DC17）、[拯救谢幕曲](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=saving%20finale)、[无声幻影](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=silent%20image)（DC16）、[惊恐术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=cause%20fear)（坟场奥秘，DC16）
+- 戏法4：[幻音术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=ghost%20sound)、[侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=detect%20magic)、[传讯术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=message)、[开关术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=open-close)
+- 一环2：[欲火焚身](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=unnatural%20lust)、[拯救谢幕曲](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=saving%20finale)
 
 ### 环位数量
 
-- 一环4：基础2+属性奖励2
+- 一环3：基础1+属性奖励2
 
 ----
 
@@ -165,22 +161,6 @@ Merfolk sometimes manifest magical powers they are unwilling to explain to non-m
 诗人在进行知识类技能检定时将他一半的职业等级（至少为1）加到检定结果中，并且可以使用未受训的知识技能进行检定。
 </details>
 
-<details>
-<summary>
-鬼魂面容（Haunted Eyes, Ex）
-</summary>
-
-2级时，哀歌咏者在对抗恐惧、能量吸取、死亡效应和死灵法术效果时豁免检定得到+4的加值。此能力取代通晓音律。
-</details>
-
-<details>
-<summary>
-坟场奥秘（Secrets of the Grave, Ex）
-</summary>
-
-2级时，哀歌咏者在他鉴定不死生物类型和异能的知识检定上得到吟游诗人等级一半的加值，同时他能对不死生物施展心志影响的法术，即便对方没有心灵。但是他没办法对不死生物施放只对人型生物有效的法术，哪怕对方生前曾是人类。此外，在2级还有之后的每4级，他可以添加一个死灵法术到他的已知法术列表，这个法术必须是符合他法术等级而且可以施展的。此能力取代多才多艺。
-</details>
-
 ----
 
 ## 背包
@@ -192,15 +172,11 @@ Merfolk sometimes manifest magical powers they are unwilling to explain to non-m
 - 防具：皮板鳞甲 60gp 25磅
 - - 轻甲，4+3，-2防具检定减值，20%奥败
 
-- 披风：+1防护斗篷
-
 ### 包里的物品
 
 - 法术材料包 5gp 2磅
 - 魔宠包 25gp 6磅
 - - 章鱼 25gp 2磅
-- 5*强化认知卷轴
-- 5*既视感卷轴
 
 ----
 
