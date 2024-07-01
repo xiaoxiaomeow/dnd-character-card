@@ -89,12 +89,12 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 
 ### 已知法术
 
-- 戏法6（基础6）：[幻音术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=ghost%20sound)、[侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=detect%20magic)、[法师之手](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=mage%20hand)、[传讯术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=message)、[开关术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=open-close)、[火花术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=spark)
+- 戏法6（基础6）：[幻音术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=ghost%20sound)、[侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=detect%20magic)、[法师之手](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mage%20hand)、[传讯术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=message)、[开关术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=open-close)、[火花术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=spark)
 - 一环6（基础4+FCB2）
-- - 法术：[魅惑人类](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=charm%20person)、[无声幻影](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=silent%20image)、[记忆空白](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=memory%20lapse)、[油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=grease)、[既视感](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=deja%20vu)
+- - 法术：[魅惑人类](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=charm%20person)、[无声幻影](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=silent%20image)、[记忆空白](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=memory%20lapse)、[油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=grease)、[既视感](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=deja%20vu)
 - - 名作：[三倍时制御](#三倍时制御)
 - 二环3（基础3）
-- - 法术：[热诚蔓延](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=contagious%20zeal)、[暗示术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=suggestion)
+- - 法术：[热诚蔓延](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=contagious%20zeal)、[暗示术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=suggestion)
 - - 名作：[孔雀盛会](#孔雀盛会)
 
 ### 环位数量
@@ -310,10 +310,10 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 ### 类法术能力（取HD为CL）：
 
 - 每日3次：
-[造成轻伤](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=inflict%20light%20wounds)
+[造成轻伤](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=inflict%20light%20wounds)
 - 每日1次：
-[防护能量伤害](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=protection%20from%20energy)（火焰，仅限自身）
-[飞行术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=fly)（仅限自身）
+[防护能量伤害](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=protection%20from%20energy)（火焰，仅限自身）
+[飞行术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=fly)（仅限自身）
 [召唤圣力](#召唤圣力)
 ----
 

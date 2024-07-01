@@ -72,8 +72,8 @@
 
 ### 已知法术
 
-- 戏法4：[幻音术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=ghost%20sound)、[侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=detect%20magic)、[传讯术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=message)、[开关术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=open-close)
-- 一环2：[欲火焚身](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=unnatural%20lust)、[拯救谢幕曲](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=saving%20finale)
+- 戏法4：[幻音术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=ghost%20sound)、[侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=detect%20magic)、[传讯术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=message)、[开关术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=open-close)
+- 一环2：[欲火焚身](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=unnatural%20lust)、[拯救谢幕曲](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=saving%20finale)
 
 ### 环位数量
 

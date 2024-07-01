@@ -94,15 +94,15 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 ### 已知法术
 
 - 戏法5：
-[侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=detect%20magic)
-[阅读魔法](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=read%20magic)
-[神导术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=guidance)
-[光亮术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=light)
-[开关术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=open-close)
+[侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=detect%20magic)
+[阅读魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=read%20magic)
+[神导术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=guidance)
+[光亮术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=light)
+[开关术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=open-close)
 - 一环3：
-[油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=grease)（DC13）
-[惧刺锁链](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=barbed%20chains)（CMB+4）
-[长臂咒](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=long%20arm)
+[油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=grease)（DC13）
+[惧刺锁链](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=barbed%20chains)（CMB+4）
+[长臂咒](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=long%20arm)
 
 ### 环位数量
 

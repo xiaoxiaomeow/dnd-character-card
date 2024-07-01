@@ -90,13 +90,13 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 ### 已知法术
 
 - 戏法4：
-[侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=detect%20magic)
-[阅读魔法](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=read%20magic)
-[神导术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=guidance)
+[侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=detect%20magic)
+[阅读魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=read%20magic)
+[神导术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=guidance)
 - 一环2：
-[油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=grease)（DC13）
-[惧刺锁链](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=barbed%20chains)（CMB+2）
-[长臂咒](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=long%20arm)（CMB+2）
+[油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=grease)（DC13）
+[惧刺锁链](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=barbed%20chains)（CMB+2）
+[长臂咒](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=long%20arm)（CMB+2）
 
 ### 环位数量
 

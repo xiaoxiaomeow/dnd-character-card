@@ -100,17 +100,17 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 ### 已知法术
 
 - 戏法6：
-[侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=detect%20magic)
-[阅读魔法](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=read%20magic)
-[神导术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=guidance)
-[光亮术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=light)
-[开关术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=open-close)
-[法师之手](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=mage%20hand)
+[侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=detect%20magic)
+[阅读魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=read%20magic)
+[神导术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=guidance)
+[光亮术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=light)
+[开关术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=open-close)
+[法师之手](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mage%20hand)
 - 一环4：
-[油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=grease)（DC13）
-[惧刺锁链](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=barbed%20chains)（CMB+4）
-[长臂咒](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=long%20arm)
-[缩小术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=reduce%20person)
+[油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=grease)（DC13）
+[惧刺锁链](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=barbed%20chains)（CMB+4）
+[长臂咒](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=long%20arm)
+[缩小术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=reduce%20person)
 
 ### 环位数量
 
@@ -343,10 +343,10 @@ masterpiece, (kawaii anime girl, reapier, (blue wings, (white hair, short hair),
 ### 类法术能力（取HD为CL）：
 
 - 每日3次：
-[造成轻伤](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=inflict%20light%20wounds)（AB+7，DC13，1d8+3）
+[造成轻伤](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=inflict%20light%20wounds)（AB+7，DC13，1d8+3）
 - 每日1次：
-[防护能量伤害](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=protection%20from%20energy)（火焰，仅限自身）
-[飞行术](https://xiaoxiaomeow.github.io/pathfinder/spell.html?spell=fly)（仅限自身）
+[防护能量伤害](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=protection%20from%20energy)（火焰，仅限自身）
+[飞行术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=fly)（仅限自身）
 [召唤圣力](#召唤圣力)
 ----
 
