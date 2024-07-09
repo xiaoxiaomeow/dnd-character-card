@@ -11,25 +11,25 @@
 - 语言：通用语，精灵语，天界语，炼狱语，龙语，水族语，木族语
 - 职业：牧师1
 - 变体：虔信圣使 / 隐牧师
-- 职业：法师2
+- 职业：法师1
 - 变体：魔宠大师
 
 ## 防御
 
-- HP22（3HD）：生命骰8+体调2+(生命骰4+体调2)\*2
+- HP16（2HD）：生命骰8+体调2+生命骰4+体调2
 - AC11：基础10+敏调1
 - 措手不及AC10：基础10
 - 接触AC11：基础10+敏调1
-- CMD10：基础10+BAB1+力调-2+敏调1
+- CMD9：基础10+BAB0+力调-2+敏调1
 - 强韧+4/+6：基础2+体调1+抗力披风1(抗力)+[虚能感应2(洞察):对抗法术或类法术能力]
 - 反射+0/+2：基础0+敏调1+不协调-2+抗力披风1(抗力)+[虚能感应2(洞察):对抗法术或类法术能力]
-- 意志+9/+11：基础2+3+感调3+抗力披风1(抗力)+[虚能感应2(洞察):对抗法术或类法术能力]
+- 意志+8/+10：基础2+2+感调3+抗力披风1(抗力)+[虚能感应2(洞察):对抗法术或类法术能力]
 
 ## 进攻
 
 - 先攻+14：敏调1+精通先攻4+翼龙魔宠4+不协调4(种族)+破损的土红色艾恩石1(表现)
 - 移动速度40尺：基础30+旅行领域10
-- BAB：1
+- BAB：0
 
 ## 属性
 
@@ -58,8 +58,8 @@
 
 <!--秘术师要求：知识（奥秘）3级，知识（宗教）3级-->
 
-- 法术辨识+12：智调5+技能点3+本职技能3+破损的深红混蓝艾恩石1(表现)
-- 知识（奥秘）+14：智调5+技能点3+本职技能3+技能专攻3
+- 法术辨识+11：智调5+技能点2+本职技能3+破损的深红混蓝艾恩石1(表现)
+- 知识（奥秘）+12：智调5+技能点1+本职技能3+技能专攻3
 - 知识（位面）+9：智调5+技能点1+本职技能3
 - 知识（宗教）+9：智调5+技能点1+本职技能3
 - 知识（自然）+9：智调5+技能点1+本职技能3
@@ -69,9 +69,8 @@
 - 知识（地方）+9：智调5+技能点1+本职技能3
 - 知识（工程）+9：智调5+技能点1+本职技能3
 - 工艺（炼金）+9：感调5+技能点1+本职技能3
-- 察觉+12：感调3+技能点3+本职技能3+模式追寻着1(背景)+警觉2
-- 察言观色+11：感调3+技能点3+本职技能3+警觉2
-- 医疗+7：感调3+技能点1+本职技能3
+- 察觉+11：感调3+技能点2+本职技能3+模式追寻着1(背景)+警觉2
+- 察言观色+9：感调3+技能点1+本职技能3+警觉2
 - 交涉+2：魅调-2+技能点1+本职技能3
 
 ## 法术
@@ -79,7 +78,7 @@
 ### 法师表已知法术
 
 - 戏法：全部
-- 一环9（基础3+智调5+虚学派赠送1+2级升级2）：
+- 一环9（基础3+智调5+虚学派赠送1）：
 [火龙烟花](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=snapdragon%20fireworks)
 [燃烧流沙](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burning%20sands)
 [七彩喷射](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=color%20spray)
@@ -89,11 +88,11 @@
 [油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=grease)
 [克敌机先](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=true%20strike)
 [敏锐感官](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=acute%20senses)
-[隐形仆役](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=unseen%20servant)
-[羽落术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=feather%20fall)
 
 <!--[法师护甲](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mage%20armor)-->
 <!--[至明之夜](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=brightest%20night)-->
+<!--[隐形仆役](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=unseen%20servant)-->
+<!--[羽落术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=feather%20fall)-->
 <!--[阴影陷阱](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=shadow%20trap)-->
 <!--[渐隐术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=vanish)-->
 <!--[重负术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=ant%20haul)-->
@@ -102,7 +101,7 @@
 
 ### 牧师表环位数量/日常准备列表（SCL1，CL2）
 
-掌控领域：旅行领域
+掌控领域：善良领域
 
 - 戏法3（基础3）
 [舞光术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dancing%20lights)
@@ -111,20 +110,18 @@
 - 一环2+1（基础1+属性奖励1+领域1）
 [祝福术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=murderous%20command)
 [阴影陷阱](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=shadow%20trap)
-+[大步奔行](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=longstrider)
++[防护邪恶](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=protection%20from%20evil)
 
-### 法师表环位数量/日常准备列表（SCL2，CL3）
+### 法师表环位数量/日常准备列表（SCL1，CL2）
 
-- 戏法4（基础4）
+- 戏法3（基础3）
 [开关术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=open-close)
 [法师之手](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mage%20hand)
 [魔法技俩](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=prestidigitation)
-[传讯术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=message)
-- 一环4+1（基础2+属性奖励2+学派1）
+- 一环3+1（基础1+属性奖励2+学派1）
 [七彩喷射](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=color%20spray)
 [油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=grease)
 [燃烧流沙](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burning%20sands)
-空置
 +[克敌机先](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=true%20strike)
 
 ## 专长
@@ -461,24 +458,24 @@ Born to two races, half-elves have a knack for combining different magical tradi
 
 ## 防御
 
-- HP11（1HD）：蝶生命值一半
+- HP7（1HD）：蝶生命值一半
 - AC16：基础10+体型2+敏调3+魔宠天防1(天防)
 - 措手不及AC13：基础10+体型2+魔宠天防1(天防)
 - 接触AC15：基础10+体型2+敏调3
-- CMD10：基础10+BAB1+力调-2+敏调3+体型-2
+- CMD9：基础10+BAB0+力调-2+敏调3+体型-2
 - 强韧+3：基础max{2,2}+体调0+抗力披风1(抗力)
 - 反射+8：基础max{0,2}+敏调3+闪电反射2+抗力披风1(抗力)
-- 意志+8：基础max{2+3,0}+感调2+抗力披风1(抗力)
+- 意志+7：基础max{2+2,0}+感调2+抗力披风1(抗力)
 
 
 ## 进攻
 
 - 移动速度10尺，40尺飞行（一般）
-- BAB：1
-- CMB+2：BAB1+敏调3+体型-2
-- 近战攻击命中+6：BAB1+敏调3+体型2
+- BAB：0
+- CMB+1：BAB0+敏调3+体型-2
+- 近战攻击命中+5：BAB0+敏调3+体型2
 - 近战攻击伤害-2：力调-2
-- - 啮咬，+6命中，1d3-2钝击/穿刺/挥砍
+- - 啮咬，+5命中，1d3-2钝击/穿刺/挥砍
 
 
 ## 属性
@@ -497,7 +494,7 @@ Born to two races, half-elves have a knack for combining different magical tradi
 
 - 飞行+11：敏调3+技能点max{0,1}+本职技能3+超小型4
 - 隐匿+11：敏调3+技能点max{0,1}+本职技能3+超小型4
-- 察觉+8：感调2+技能点max{3,1}+本职技能3
+- 察觉+7：感调2+技能点max{2,1}+本职技能3
 
 
 ## 专长
