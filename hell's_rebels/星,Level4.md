@@ -13,31 +13,31 @@
 - 变体：虔信圣使
 - 职业：法师2
 - 变体：魔宠大师
-- 职业：秘术师2
+- 职业：秘术师1
 
 ## 防御
 
-- HP34（5HD）：生命骰8+体调2+(生命骰4+体调2)\*4
+- HP28（3HD）：生命骰8+体调2+(生命骰4+体调2)\*3
 - AC11：基础10+敏调1
 - 措手不及AC10：基础10
 - 接触AC11：基础10+敏调1
-- CMD11：基础10+BAB2+力调-2+敏调1
-- 强韧+5/+7：基础2+1+体调1+抗力披风1(抗力)+[虚能感应2(洞察):对抗法术或类法术能力]
-- 反射+1/+3：基础1+敏调1+不协调-2+抗力披风1(抗力)+[虚能感应2(洞察):对抗法术或类法术能力]
+- CMD10：基础10+BAB1+力调-2+敏调1
+- 强韧+4/+6：基础2+体调1+抗力披风1(抗力)+[虚能感应2(洞察):对抗法术或类法术能力]
+- 反射+0/+2：基础0+敏调1+不协调-2+抗力披风1(抗力)+[虚能感应2(洞察):对抗法术或类法术能力]
 - 意志+10/+12：基础2+3+1+感调3+抗力披风1(抗力)+[虚能感应2(洞察):对抗法术或类法术能力]
 
 ## 进攻
 
 - 先攻+10：敏调1+翼龙魔宠4+不协调4(种族)+破损的土红色艾恩石1(表现)
 - 移动速度40尺：基础30+旅行领域10
-- BAB：2
+- BAB：1
 
 ## 属性
 
 - 力量7（-2）：基础7
 - 敏捷13（+1）：基础13
 - 体质14（+2）：基础14
-- 智力23（+5）：基础18+种族2+属性成长1+头环2(增强)
+- 智力21（+5）：基础18+种族2+属性成长1
 - 感知16（+3）：基础16
 - 魅力7（-2）：基础7
 
@@ -57,29 +57,27 @@
 - 智力技能：知识（奥秘，宗教），法术辨识
 - 感知技能：察言观色
 
-牧师技能点8+2/等级=牧师2+智调6，2个技能点必须用于交涉和知识（宗教）
+牧师技能点7+2/等级=牧师2+智调5，2个技能点必须用于交涉和知识（宗教）
 
-法师/秘术师技能点8/等级=法师2+智调6
+法师/秘术师技能点7/等级=法师2+智调5
 
 <!--秘术师要求：知识（奥秘）3级，知识（宗教）3级-->
 
-- 飞行+5：敏调1+技能点1+本职技能3
-- 法术辨识+14：智调5+技能点5+本职技能3+破损的深红混蓝艾恩石1(表现)
-- 知识（奥秘）+16：智调5+技能点5+本职技能3+技能专攻3
+- 法术辨识+13：智调5+技能点4+本职技能3+破损的深红混蓝艾恩石1(表现)
+- 知识（奥秘）+14：智调5+技能点3+本职技能3+技能专攻3
 - 知识（宗教）+11：智调5+技能点3+本职技能3
-- 知识（位面）+10：智调5+技能点2+本职技能3
+- 知识（位面）+9：智调5+技能点1+本职技能3
 - 知识（自然）+9：智调5+技能点1+本职技能3
 - 知识（地城）+9：智调5+技能点1+本职技能3
 - 知识（贵族）+9：智调5+技能点1+本职技能3
 - 知识（历史）+9：智调5+技能点1+本职技能3
 - 知识（地方）+9：智调5+技能点1+本职技能3
 - 知识（工程）+9：智调5+技能点1+本职技能3
-- 知识（地理）+9：智调5+技能点1+本职技能3
-- 工艺（炼金）+13：智调5+技能点5+本职技能3
+- 工艺（炼金）+9：智调5+技能点1+本职技能3
 - 语言学+9：智调5+技能点1+本职技能3
 - 估价+9：智调5+技能点1+本职技能3
-- 察觉+14：感调3+技能点5+本职技能3+模式追寻着1(背景)+警觉2
-- 察言观色+13：感调3+技能点5+本职技能3+警觉2
+- 察觉+13：感调3+技能点4+本职技能3+模式追寻着1(背景)+警觉2
+- 察言观色+12：感调3+技能点4+本职技能3+警觉2
 - 医疗+7：感调3+技能点1+本职技能3
 - 交涉+2：魅调-2+技能点1+本职技能3
 
@@ -109,30 +107,15 @@
 [闪光尘](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=glitterdust)
 [蛛网术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=web)
 [识破隐形](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=see%20invisibility)
-[造坑术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=create%20pit)<sup>APG</sup>
-[镜中藏身处](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mirror%20hideaway)<sup>ACG</sup>
-[共享记忆](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=share%20memory)<sup>UM</sup>
-- 3环（虚学派赠送1+抄录获得）：
-[暮光之刃](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=twilight%20knife)<sup>APG</sup>
-[解除魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20magic)
-[加速术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=haste)
-[英雄气概](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=heroism)
-[隐形法球](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=invisibility%20sphere)
-[气化形体](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=gaseous%20form)
-[锐耳术/鹰眼术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=clairaudience-clairvoyance)
-[共用黑暗视觉](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=darkvision,%20communal)<sup>UC</sup>
-[血之讯息](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=blood%20biography)<sup>APG</sup>
-[萌龙仆从](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=draconic%20ally)<sup>PPC-LoD</sup>
 
-<!--[缓慢术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=slow)-->
-<!--[避难小屋](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=tiny%20hut)-->
 <!--[法师护甲](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mage%20armor)-->
+<!--[至明之夜](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=brightest%20night)-->
 <!--[阴影陷阱](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=shadow%20trap)-->
 <!--[渐隐术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=vanish)-->
 <!--[重负术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=ant%20haul)-->
 <!--备卷：通晓语言，脚底抹油，强化认知，封门术，坐骑术，隐雾术，无声幻影-->
 
-### 牧师表环位数量/日常准备列表（SCL3，CL4）
+### 牧师表环位数量/日常准备列表（SCL2，CL3）
 
 掌控领域：旅行领域
 
@@ -142,16 +125,12 @@
 [侦测魔鬼存在](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=detect%20fiendish%20presence)
 空置
 - 一环3+1（基础2+属性奖励1+领域1）
-[移除恐惧](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=remove%20fear)
-[移除恶心](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=remove%20sickness)<sup>UM</sup>
-[重负术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=ant%20haul)<sup>APG</sup>（常驻）
-+[克敌机先](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=true%20strike)
-- 二环2+1（基础1+属性奖励1+领域1）
-[化泪为酒](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=tears%20to%20wine)<sup>PPC-AAnth</sup>
-[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>（DC15）
+[克敌机先](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=true%20strike)
+[谋杀指令](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=murderous%20command)<sup>UM</sup>（DC14）
+空置
 +[大步奔行](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=longstrider)
 
-### 法师表环位数量/日常准备列表（SCL5，CL5）
+### 法师表环位数量/日常准备列表（SCL3，CL4）
 
 - 戏法4（基础4）
 [开关术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=open-close)
@@ -160,21 +139,15 @@
 [传讯术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=message)
 - 一环5+1（基础3+属性奖励2+学派1）
 [水流冲击](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=hydraulic%20push)（CMB+9）
-[油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=grease)（DC17）
+[油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=grease)（DC16）
+[燃烧流沙](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burning%20sands)
 [既视感](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=deja%20vu)
-[七彩喷射](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=color%20spray)（DC17）
 空置
 +[克敌机先](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=true%20strike)
-- 二环4+1（基础2+属性奖励2+学派1）
-[闪光尘](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=glitterdust)（DC18）
-[蛛网术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=web)（DC18）
-[造坑术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=create%20pit)<sup>APG</sup>（DC18）
-空置
+- 二环2+1（基础1+属性奖励1+学派1）
+[闪光尘](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=glitterdust)
+[蛛网术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=web)
 +[识破隐形](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=see%20invisibility)
-- 三环2+1（基础1+属性奖励1+学派1）
-[加速术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=haste)
-空置
-+[解除魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20magic)
 
 ## 专长
 
@@ -230,38 +203,6 @@
 - 逗猫棒 Lure （驯养动物5级）：当你手持一根点亮的日光杖，以一个移动动作，你可以尝试诱使一个动物朝你想要的任何方向移动。进行一个驯养动物检定来对抗DC=15+目标动物的CR。如果你成功了，该动物会在下轮往你希望的方向移动5尺。你的检定每超过DC5点。该动物都会额外移动5尺，最高不超过该动物的最高移速。该移动如常造成借机攻击，但是一旦有人这么做了，该动物会立刻停止移动（无论该攻击是否命中）。你无法让动物移动到明显的险境（hazard）中，但是你可以（举个例子）诱使其进入一个开放的笼子。
 
 - 双倍强光 Twice as Brightly（工艺（炼金）5级）：以一个整轮动作，你可以修改一根未使用过的日光杖，使其只能燃烧1个小时，但是会发出更明亮的光芒。它会散发强光程度的光亮照亮30尺半径的区域，并在额外30尺的范围内使光照等级上升2级（黑暗变成常光，昏暗或者常光变成强光）。他无法使强光环境的光照强度提升。
-</details>
-
-<details>
-<summary>
-HR赠送：Favored Prestige Class <sup>PPC-PotR</sup>，秘术师
-</summary>
-
-You have come to favor a certain prestige class, either because you are particularly devoted to the class’s cause, have trained more than most others have for that specific role, or have simply been destined to excel in the prestige class all along. Regardless of the reason, levels gained in your favored prestige class grant additional benefits in a way similar to those you gain for taking levels in your base favored class.
-
-专长效果: Choose one prestige class and one skill that is a class skill for that prestige class. Whenever you gain a level in that prestige class, you receive +1 hit point or +1 skill rank. You gain a +2 bonus on checks using the skill you chose from that prestige class’s class skills. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill. This bonus stacks with the bonus granted by Skill Focus, but does not stack with a bonus granted by any other feat (such as Magical Aptitude or Persuasive). The choice of favored prestige class cannot be changed once you make it. Levels in a favored prestige class are not the same as levels in a regular favored class, and as such levels in a favored prestige class can never be used to qualify or gain favored class options like those introduced in Pathfinder RPG Advanced Player’s Guide. You can have only one favored prestige class, but can still have a favored base class as well.
-
-You can select this feat before you gain levels in your chosen favored prestige class, but the benefits of the feat do not apply until you actually gain at least 1 level in that prestige class.
-
-通常状况: Prestige classes cannot be a favored class, and cannot benefit from the additional hit point or skill rank afforded to those who take levels in a favored class.
-</details>
-
-<details>
-<summary>
-5级：Prestigious Spellcaster <sup>PPC-PotR</sup>，HR秘术师
-</summary>
-
-The transition into a spellcasting prestige class is less difficult for you, and because of this, you gain 1 additional effective spellcaster level from your prestige class levels.
-
-先决条件: Favored Prestige Class with selected prestige class.
-
-专长效果: The first time you gain a level in your favored prestige class and the spells per day class feature does not grant an increase in effective level for the purpose of casting spells, you gain new spells per day as if the prestige class did grant +1 level of spellcasting for that level. This effect is retroactive if you gain this feat at a level beyond the point where your favored prestige class would normally have not advanced your spellcasting.
-
-The Prestigious Spellcaster feat does not have any effect if your favored prestige class does not have the spells per day class feature, or if it does have the spells per day class feature but already grants a level increase for every level of the prestige class (as do the arcane trickster and loremaster prestige classes).
-
-通常状况: You can select the Prestigious Spellcaster feat multiple times. Each time you select the Prestigious Spellcaster feat, your effective caster level increases by 1. However, regardless of the number of times you choose this feat, the total increase to your effective caster level cannot exceed your actual prestige class level.
-
-This feat also applies to prestige classes that grant extracts per day instead of spells per day.
 </details>
 
 <!--
@@ -435,7 +376,7 @@ Born to two races, half-elves have a knack for combining different magical tradi
 
 <details>
 <summary>
-揭示弱点（Su），每日8次=基础3+智调5，2减值=1/2施法者等级5
+揭示弱点（Su），每日8次=基础3+智调5，1减值=1/2施法者等级3
 </summary>
 每当你以一个标准动作发动此学派能力，你就可以选择距离你30尺内的一个敌人目标，此生物会在防御等级和所有的豁免投骰上受到等于你的施法者等级1/2的减值（最少为1），持续1轮。你每天可以使用此能力的次数等于3+你的智力调整值。
 </details>
@@ -464,15 +405,6 @@ Born to two races, half-elves have a knack for combining different magical tradi
 魔宠大师的训练使得自身更加专注于自身的魔宠和对应的专精学派。在1级、5级以及之后的每5级时，魔宠都可以获得1次每日使用法师的1级学派能力的次数，而不用去花费法师的每日使用次数。
 </details>
 
-### 来自秘术师
-
-<details>
-<summary>
-无界施法（Combined Spells, Su）
-</summary>
-秘术师可以使用他所有的任何施法职业的法术位来准备和施展另一个施法职业的法术。如此准备或施展法术需要占用一个比通常法术位高一环的法术位。如果一个法术同时在两个职业的法术列表里，那么这个能力不能使你使用较低的法术位来施展法术。在1级时，秘术师可以用一个施法者职业的2环法术位准备另一个施法者职业的1环法术。每增加2级，能如此施展的法术位等级增加1，并在9级时适用于最高的5环法术，它们占用另一个施法职业的6环法术位。这些法术的法术成分并无改变，但是它们遵循其他施法职业施法规则。自发法术施法者只能选择他们的非自发施法职业当天已经准备过的法术用于此能力，不过这个法术是否已被施展并无影响。例如，一个牧师/术士/秘术师，如果他当天使用牧师法术位准备了祝福术，那么可以使用“无界施法”能力使用一个2环术士法术位来自发施展一个祝福术，即使在这个祝福术已经被施展了。
-</details>
-
 ### 天赋职业奖励
 
 天赋职业：牧师
@@ -485,13 +417,11 @@ Born to two races, half-elves have a knack for combining different magical tradi
 
 ### 身上的物品
 
-- 副手：次等延时超魔权杖
-- 头环：+2智力头环
+- 武器：匕首 2gp 1磅
+- - 简易轻型武器，1d4穿刺或挥砍，19-20/x2，射程10尺
 
 ### 包里的物品
 
-- 匕首 2gp 1磅
-- - 简易轻型武器，1d4穿刺或挥砍，19-20/x2，射程10尺
 - 法术材料包 5gp 2磅
 - 一对装饰着蝴蝶翅膀的发簪（服装配饰，圣徽） 1gp -
 - <details><summary>2*快速腕鞘 20gp 2磅</summary>此腕鞘设计成可以绑在你的前臂上，但过大的体积使它难以藏匿在长袖底下。此物品可以存放（hold）一件一臂长的物体，例如匕首、飞镖、药水、魔杖或仅包含单一法术的卷轴。你可以用迅捷动作弯曲你的手腕，将腕鞘内的物品落入你的手中（但仍会如正常取出一件物品般遭到借机攻击）。将物品放入腕鞘是一个整轮动作，而且会引发借机攻击。你每条手臂只能穿戴一个腕鞘。</details>
@@ -570,22 +500,22 @@ Born to two races, half-elves have a knack for combining different magical tradi
 
 ## 防御
 
-- HP17（1HD）：星生命值一半
+- HP11（1HD）：蝶生命值一半
 - AC16：基础10+体型2+敏调3+魔宠天防1(天防)
 - 措手不及AC13：基础10+体型2+魔宠天防1(天防)
 - 接触AC15：基础10+体型2+敏调3
-- CMD11：基础10+BAB2+力调-2+敏调3+体型-2
-- 强韧+4：基础max{2+1,2}+体调0+抗力披风1(抗力)
-- 反射+8：基础max{1,2}+敏调3+闪电反射2+抗力披风1(抗力)
+- CMD10：基础10+BAB1+力调-2+敏调3+体型-2
+- 强韧+3：基础max{2,2}+体调0+抗力披风1(抗力)
+- 反射+8：基础max{0,2}+敏调3+闪电反射2+抗力披风1(抗力)
 - 意志+9：基础max{2+3+1,0}+感调2+抗力披风1(抗力)
 
 
 ## 进攻
 
 - 移动速度10尺，40尺飞行（一般）
-- BAB：2
+- BAB：1
 - CMB+2：BAB1+敏调3+体型-2
-- 近战攻击命中+7：BAB2+敏调3+体型2
+- 近战攻击命中+6：BAB1+敏调3+体型2
 - 近战攻击伤害-2：力调-2
 - - 啮咬，+6命中，1d3-2钝击/穿刺/挥砍
 
@@ -604,7 +534,7 @@ Born to two races, half-elves have a knack for combining different magical tradi
 
 本职技能：攀爬，游泳，特技，飞行，隐匿，察觉
 
-- 飞行+11：敏调3+技能点max{1,1}+本职技能3+超小型4
+- 飞行+11：敏调3+技能点max{0,1}+本职技能3+超小型4
 - 隐匿+11：敏调3+技能点max{0,1}+本职技能3+超小型4
 - 察觉+9：感调2+技能点max{4,1}+本职技能3
 
@@ -675,99 +605,6 @@ Born to two races, half-elves have a knack for combining different magical tradi
 专学私用（Specialty Stowaway，Sp或Su）
 </summary>
 学派魔宠能够使用自身主人的奥术学派所赋予的能力，不过仅限每日只有一定使用次数或者轮数限定的能力，学派魔宠可以花费两倍于正常标准的轮数或次数来使用这些能力。
-</details>
-
-----
-
-# 云
-
-延时萌龙仆从（5cl），250gp/10天
-
-- 种族：伪龙，梦境龙
-- 性别：雌
-- 阵营：中立善良
-- 身高：1.7尺
-- 体重：3磅
-- 体型：超小型
-- 语言：龙语，心灵感应（60尺），通用语（萌龙仆从）
-
-
-## 防御
-
-- HP15（2HD）：(d12+体调1)*2
-- AC16：基础10+体型2+敏调2+天防2
-- 措手不及AC14：基础10+体型2+天防2
-- 接触AC14：基础10+体型2+敏调2
-- CMD10：基础10+BAB2+力调-2+敏调2+体型-2
-- 强韧+4：基础3+体调1
-- 反射+5：基础3+敏调2
-- 意志+4：基础3+感调1
-
-
-## 进攻
-
-- 移动速度15尺，60尺飞行（良好）
-- BAB：2
-- CMB+2：BAB2+敏调2+体型-2
-- 近战攻击命中+6：BAB1+敏调3+体型2
-- 近战攻击伤害-2：力调-2
-- - 啮咬，+6命中，1d2-2钝击/穿刺/挥砍
-- - 钉刺，+6命中，1d3-2穿刺，附加中毒
-
-中毒（Ex）：方式 刺击-伤口；豁免 强韧DC14；发作频率 1次/分钟，持续10分钟；效果 睡眠1分钟；治愈 1次豁免。豁免DC基于体质，已经包含种族+2调整。
-
-
-## 属性
-
-- 力量7（-2）：基础7
-- 敏捷15（+2）：基础15
-- 体质13（+1）：基础13
-- 智力10（+0）：基础10
-- 感知12（+1）：基础12
-- 魅力10（+0）：基础10
-
-
-## 技能
-
-交涉+5，飞行+15，察觉+6，察言观色+6，隐匿+19（森林中+23），生存+6；种族调整 +4隐匿（森林中提升为+8）
-
-## 专长
-
-<details>
-<summary>
-武器娴熟 (Weapon Finesse) <sup>CRB</sup>〔战斗〕
-</summary>
-
-你善于在近身战斗中使用敏捷代替蛮力。
-
-专长效果: 使用适于你体型的轻型武器、细剑、长鞭、刺链时，你可以在攻击检定中改为使用敏捷修正，而非力量修正。若你持用盾牌，攻击检定会受到盾牌的防具检定减值。
-
-特殊说明: 天生武器视为轻型武器。
-</details>
-
-
-## 种族特性
-
-- 免疫麻痹，睡眠
-- 盲感60尺
-- 黑暗视觉60尺
-- 昏暗视觉
-- SR12
-- 喷吐武器，30尺锥形闪电，6d8，每日一次
-
-<details>
-<summary>
-Dream Fortress (Su)
-</summary>
-
-A juvenile or older young adult dream dragon is immune to dream, nightmare, and similar spells.
-</details>
-<details>
-<summary>
-Dreamsight (Su)
-</summary>
-
-With a brief glance, a very young or older dragon can see a hazy image of the current dreams of sleeping creatures.
 </details>
 
 ----
