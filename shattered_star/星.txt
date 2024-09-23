@@ -12,21 +12,21 @@
 - 体重：102磅
 - 体型：中型
 - 语言：通用语，天界语，龙语
-- 职业：牧师3
+- 职业：牧师4
 - 变体：异端
 
 ----
 
 ## 防御
 
-- HP30（3HD）：生命骰8+体调4+(生命骰5+体调4)\*2
+- HP39（4HD）：生命骰8+体调4+(生命骰5+体调4)\*2
 - AC17：基础10+敏调2+链甲衫4(盔甲)+精制品轻木盾1(盾牌)
 - 措手不及AC15：基础10+链甲衫4(盔甲)+精制品轻木盾1(盾牌)
 - 接触AC12：基础10+敏调2
 - CMD14：基础10+BAB2+力调0+敏调2
-- 强韧+7：基础3+体调4
+- 强韧+8：基础4+体调4
 - 反射+3：基础1+敏调2
-- 意志+8：基础3+感调5
+- 意志+9：基础4+感调5
 
 ----
 
@@ -34,7 +34,7 @@
 
 - 先攻+6：敏调2+精通先攻4
 - 移动速度30尺：基础30
-- BAB：2
+- BAB：3
 
 ----
 
@@ -44,7 +44,7 @@
 - 敏捷14（+2）：骰点14
 - 体质19（+4）：骰点17+种族2
 - 智力14（+2）：骰点14
-- 感知20（+5）：骰点18+种族2
+- 感知21（+6）：骰点18+种族2+属性成长1
 - 魅力16（+3）：骰点16
 
 ----
@@ -60,14 +60,14 @@ HR牧师本职技能：察觉，知识（本地）
 
 技能点6/等级：牧师HR4+智调2
 
-- 法术辨识+8：智调2+技能点3+本职技能3
-- 知识（地理）+3：智调2+技能点1
-- 知识（位面）+10：智调2+技能点3+本职技能3+生于天界2(种族)
+- 法术辨识+9：智调2+技能点4+本职技能3
+- 知识（地理）+5：智调2+技能点3
+- 知识（位面）+11：智调2+技能点4+本职技能3+生于天界2(种族)
 - 知识（宗教）+10：感调5+技能点2+本职技能3
-- 察觉+13：感调5+技能点3+本职技能3+精制品工具2(环境)
+- 察觉+14：感调5+技能点4+本职技能3+精制品工具2(环境)
 - 察言观色+13：感调5+技能点3+本职技能3+精制品工具2(环境)
 - 医疗+9：感调5+技能点1+本职技能3
-- 生存+7：感调5+技能点2
+- 生存+8：感调5+技能点3
 
 <!--进阶条件：地理5级，位面5级，生存3级-->
 
@@ -96,7 +96,7 @@ HR牧师本职技能：察觉，知识（本地）
 [修复术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mending)
 
 - 一环5+1（基础3+属性奖励2+领域1）
-[聆听城市](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=ears%20of%20the%20city)<sup>PPC-HotS</sup>
+[移除恐惧](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=remove%20fear)<sup>CRB</sup>
 [脱困指令](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=liberating%20command)<sup>UC, PPC-ASoL</sup>
 [谋杀指令](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=murderous%20command)<sup>UM</sup>
 [命令术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=command)
@@ -104,7 +104,7 @@ HR牧师本职技能：察觉，知识（本地）
 +[克敌机先](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=true%20strike)
 
 - 二环2+1（基础1+属性奖励1+领域1）
-[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>x2
+[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>x3
 +[防护邪恶](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=protection%20from%20evil)
 
 ----
@@ -241,7 +241,7 @@ HR牧师本职技能：察觉，知识（本地）
 
 <details>
 <summary>
-1~3级：人类
+1~4级：人类
 </summary>
 克服异界生物法术抗力的施法者等级检定+1。
 </details>
