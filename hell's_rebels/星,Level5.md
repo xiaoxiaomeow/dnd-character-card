@@ -13,18 +13,18 @@
 - 变体：虔信圣使
 - 职业：法师2
 - 变体：魔宠大师
-- 职业：秘术师3
+- 职业：秘术师2
 
 ## 防御
 
-- HP43（6HD）：生命骰8+体调2+(生命骰4+体调2)\*5+FCB3
+- HP34（5HD）：生命骰8+体调2+(生命骰4+体调2)\*4
 - AC11：基础10+敏调1
 - 措手不及AC10：基础10
 - 接触AC11：基础10+敏调1
 - CMD11：基础10+BAB2+力调-2+敏调1
 - 强韧+5/+7：基础2+1+体调1+抗力披风1(抗力)+[虚能感应2(洞察):对抗法术或类法术能力]
 - 反射+1/+3：基础1+敏调1+不协调-2+抗力披风1(抗力)+[虚能感应2(洞察):对抗法术或类法术能力]
-- 意志+11/+13：基础2+3+2+感调3+抗力披风1(抗力)+[虚能感应2(洞察):对抗法术或类法术能力]
+- 意志+10/+12：基础2+3+1+感调3+抗力披风1(抗力)+[虚能感应2(洞察):对抗法术或类法术能力]
 
 ## 进攻
 
@@ -37,7 +37,7 @@
 - 力量7（-2）：基础7
 - 敏捷13（+1）：基础13
 - 体质14（+2）：基础14
-- 智力23（+6）：基础18+种族2+属性成长1+头环2(增强)
+- 智力23（+5）：基础18+种族2+属性成长1+头环2(增强)
 - 感知16（+3）：基础16
 - 魅力7（-2）：基础7
 
@@ -64,23 +64,23 @@
 <!--秘术师要求：知识（奥秘）3级，知识（宗教）3级-->
 
 - 飞行+5：敏调1+技能点1+本职技能3
-- 法术辨识+16/+18：智调6+技能点6+本职技能3+破损的深红混蓝艾恩石1(表现)+[化泪为酒2(增强)]
-- 知识（奥秘）+18/+22：智调6+技能点6+本职技能3+技能专攻3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（宗教）+15/+19：智调6+技能点6+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（位面）+12/+16：智调6+技能点3+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（自然）+10/+14：智调6+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（地城）+10/+14：智调6+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（贵族）+10/+14：智调6+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（历史）+10/+14：智调6+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（地方）+10/+14：智调6+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（工程）+10/+14：智调6+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（地理）+10/+14：智调6+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 工艺（炼金）+14/+16：智调6+技能点5+本职技能3+[化泪为酒2(增强)]
-- 语言学+10/+12：智调6+技能点1+本职技能3+[化泪为酒2(增强)]
-- 估价+10/+12：智调6+技能点1+本职技能3+[化泪为酒2(增强)]
-- 察觉+15/+19：感调3+技能点6+本职技能3+模式追寻着1(背景)+警觉2+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 察言观色+14/+16：感调3+技能点6+本职技能3+警觉2+[化泪为酒2(增强)]
-- 医疗+7/+9：感调3+技能点1+本职技能3+[化泪为酒2(增强)]
+- 法术辨识+14：智调5+技能点5+本职技能3+破损的深红混蓝艾恩石1(表现)
+- 知识（奥秘）+16：智调5+技能点5+本职技能3+技能专攻3
+- 知识（宗教）+11：智调5+技能点3+本职技能3
+- 知识（位面）+10：智调5+技能点2+本职技能3
+- 知识（自然）+9：智调5+技能点1+本职技能3
+- 知识（地城）+9：智调5+技能点1+本职技能3
+- 知识（贵族）+9：智调5+技能点1+本职技能3
+- 知识（历史）+9：智调5+技能点1+本职技能3
+- 知识（地方）+9：智调5+技能点1+本职技能3
+- 知识（工程）+9：智调5+技能点1+本职技能3
+- 知识（地理）+9：智调5+技能点1+本职技能3
+- 工艺（炼金）+13：智调5+技能点5+本职技能3
+- 语言学+9：智调5+技能点1+本职技能3
+- 估价+9：智调5+技能点1+本职技能3
+- 察觉+14：感调3+技能点5+本职技能3+模式追寻着1(背景)+警觉2
+- 察言观色+13：感调3+技能点5+本职技能3+警觉2
+- 医疗+7：感调3+技能点1+本职技能3
 - 交涉+2：魅调-2+技能点1+本职技能3
 
 ## 法术
@@ -123,15 +123,16 @@
 [共用黑暗视觉](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=darkvision,%20communal)<sup>UC</sup>
 [血之讯息](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=blood%20biography)<sup>APG</sup>
 [萌龙仆从](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=draconic%20ally)<sup>PPC-LoD</sup>
-[缓慢术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=slow)
 
+<!--[缓慢术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=slow)-->
 <!--[避难小屋](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=tiny%20hut)-->
 <!--[法师护甲](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mage%20armor)-->
 <!--[阴影陷阱](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=shadow%20trap)-->
 <!--[渐隐术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=vanish)-->
+<!--[重负术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=ant%20haul)-->
 <!--备卷：通晓语言，脚底抹油，强化认知，封门术，坐骑术，隐雾术，无声幻影-->
 
-### 牧师表环位数量/日常准备列表（SCL4，CL5）
+### 牧师表环位数量/日常准备列表（SCL3，CL4）
 
 掌控领域：旅行领域
 
@@ -139,20 +140,18 @@
 [舞光术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dancing%20lights)
 [侦测魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=detect%20magic)
 [侦测魔鬼存在](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=detect%20fiendish%20presence)
-[修复术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mending)
-- 一环4+1（基础3+属性奖励1+领域1）
+空置
+- 一环3+1（基础2+属性奖励1+领域1）
 [移除恐惧](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=remove%20fear)
 [移除恶心](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=remove%20sickness)<sup>UM</sup>
 [重负术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=ant%20haul)<sup>APG</sup>（常驻）
-[脱困指令](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=liberating%20command)<sup>UC, PPC-ASoL</sup>
++[克敌机先](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=true%20strike)
+- 二环2+1（基础1+属性奖励1+领域1）
+[化泪为酒](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=tears%20to%20wine)<sup>PPC-AAnth</sup>
+[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>（DC15）
 +[大步奔行](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=longstrider)
-- 二环3+1（基础2+属性奖励1+领域1）
-[化泪为酒](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=tears%20to%20wine)<sup>PPC-AAnth</sup>（50min）
-[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>（DC16）
-[第三只手](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=pilfering%20hand)<sup>UC</sup>
-+[移除麻痹](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=remove%20paralysis)
 
-### 法师表环位数量/日常准备列表（SCL6，CL6）
+### 法师表环位数量/日常准备列表（SCL5，CL5）
 
 - 戏法4（基础4）
 [开关术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=open-close)
@@ -160,22 +159,20 @@
 [魔法技俩](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=prestidigitation)
 [传讯术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=message)
 - 一环5+1（基础3+属性奖励2+学派1）
-[预知危险](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=anticipate%20peril)<sup>UM</sup>
+[水流冲击](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=hydraulic%20push)（CMB+11）
 [油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=grease)（DC17）
 [既视感](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=deja%20vu)
 [七彩喷射](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=color%20spray)（DC17）
-[强化认知](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=heightened%20awareness)<sup>ACG</sup>（60min）
+空置
 +[克敌机先](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=true%20strike)
-- 二环5+1（基础3+属性奖励2+学派1）
+- 二环4+1（基础2+属性奖励2+学派1）
 [闪光尘](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=glitterdust)（DC18）
 [蛛网术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=web)（DC18）
 [造坑术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=create%20pit)<sup>APG</sup>（DC18）
-[镜影术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mirror%20image)（1d4+2个）
 空置
 +[识破隐形](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=see%20invisibility)
-- 三环3+1（基础2+属性奖励1+学派1）
+- 三环2+1（基础1+属性奖励1+学派1）
 [加速术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=haste)
-[缓慢术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=slow)
 空置
 +[解除魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20magic)
 
