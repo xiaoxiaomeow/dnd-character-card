@@ -1,5 +1,15 @@
-- [黄金国度团，魔法少女 星 / 蝶](promised/Xing&Die.md)
-- [博德之门团，魔法少女 星 / 蝶](baldur's_gate/Xing&Die.md)
-- [崖巡特警团，审判者 星](agents_of_edgewatch/星.md)
-- [狮窝晚餐，吟游诗人 星](dinner_at_lion_lodge/星.md)
-- [地狱复仇，审判者 星](hell's_vengeance/星.md)
+- [黄金国度，半精灵魔法少女 星/蝶](promised/Xing&Die.md)（结团）
+- [博德之门，半精灵魔法少女 星/蝶](baldur's_gate/Xing&Die.md)（换卡）
+- [崖巡特警，半精灵审判者 星](agents_of_edgewatch/星.md)（退团）
+- [狮窝晚餐，侏儒吟游诗人 星](dinner_at_lion_lodge/星.md)（结团）
+- [地狱复仇，半兽人审判者 星](hell's_vengeance/星.md)（被撕了）
+- [地狱复仇，人类吟游诗人 蝶](hell's_vengeance/蝶.md)（结团）
+- [博德之门重置，半精灵吟游诗人 蝶](baldur's_gate_remake/蝶.md)（咕咕咕）
+- [木乃伊面具，人鱼吟游诗人 星](mummy's_mask/星.md)（炸团）
+- [万千之力，章鱼变形者 花](strength_of_thousands/花.md)（结团）
+- [铁牙入侵，半精灵牧师 星](ironfang_invasion/星.md)（车了但没参团）
+- [地狱叛军，半精灵秘术师 星](hell's_rebels/星.md)
+- [冬临天下，人类牧师 星](reign_of_winter/星.md)（车了但没参团）
+- [四季鬼志，疾旋鼬牧师 花](season_of_ghosts/花.md)
+- [破碎魔星，神裔牧师 星](shattered_star/星.md)
+- [地狱复仇重置，龙裔神卫 星](hell's_vengeance_remake/星.md)
