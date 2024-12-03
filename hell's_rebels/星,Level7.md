@@ -13,18 +13,18 @@
 - 变体：虔信圣使
 - 职业：法师2
 - 变体：魔宠大师
-- 职业：秘术师5
+- 职业：秘术师4
 
 ## 防御
 
-- HP64（8HD）：生命骰8+体调3+(生命骰4+体调3)\*7+FCB4
+- HP50（7HD）：生命骰8+体调2+(生命骰4+体调2)\*6+FCB4
 - AC11：基础10+敏调1
 - 措手不及AC10：基础10
 - 接触AC11：基础10+敏调1
 - CMD12：基础10+BAB3+力调-2+敏调1
-- 强韧+9/+11：基础2+2+体调2+抗力披风1(抗力)+天佑幸运章鱼2(运气)+[虚能感应2(洞察):对抗法术或类法术能力]
-- 反射+4/+6：基础2+敏调1+不协调-2+抗力披风1(抗力)+天佑幸运章鱼2(运气)+[虚能感应2(洞察):对抗法术或类法术能力]
-- 意志+14/+16：基础2+3+3+感调3+抗力披风1(抗力)+天佑幸运章鱼2(运气)+[虚能感应2(洞察):对抗法术或类法术能力]
+- 强韧+8/+10：基础2+1+体调2+抗力披风1(抗力)+天佑幸运章鱼2(运气)+[虚能感应2(洞察):对抗法术或类法术能力]
+- 反射+3/+5：基础1+敏调1+不协调-2+抗力披风1(抗力)+天佑幸运章鱼2(运气)+[虚能感应2(洞察):对抗法术或类法术能力]
+- 意志+13/+15：基础2+3+2+感调3+抗力披风1(抗力)+天佑幸运章鱼2(运气)+[虚能感应2(洞察):对抗法术或类法术能力]
 
 ## 进攻
 
@@ -36,8 +36,8 @@
 
 - 力量7（-2）：基础7
 - 敏捷13（+1）：基础13
-- 体质16（+3）：基础14+腰带2(增强)
-- 智力28（+9）：基础18+种族2+属性成长2+头环6(增强)
+- 体质14（+2）：基础14
+- 智力25（+7）：基础18+种族2+属性成长1+头环4(增强)
 - 感知16（+3）：基础16
 - 魅力7（-2）：基础7
 
@@ -57,30 +57,29 @@
 - 智力技能：知识（奥秘，宗教），法术辨识
 - 感知技能：察言观色
 
-牧师技能点11+2/等级=牧师2+智调9，2个技能点必须用于交涉和知识（宗教）
+牧师技能点9+2/等级=牧师2+智调7，2个技能点必须用于交涉和知识（宗教）
 
-法师/秘术师技能点11/等级=法师2+智调9
+法师/秘术师技能点9/等级=法师2+智调7
 
 <!--秘术师要求：知识（奥秘）3级，知识（宗教）3级-->
 
-- 特技+9：敏调1+技能点5+本职技能3
-- 飞行+12：敏调1+技能点8+本职技能3
-- 法术辨识+21/+23：智调9+技能点8+本职技能3+破损的深红混蓝艾恩石1(表现)+[化泪为酒2(增强)]
-- 知识（奥秘）+24/+27：智调9+技能点8+本职技能3+技能专攻3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（宗教）+20/+24：智调9+技能点8+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（位面）+20/+24：智调9+技能点8+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（地城）+20/+24：智调9+技能点8+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（自然）+20/+24：智调9+技能点8+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（贵族）+13/+17：智调9+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（历史）+13/+17：智调9+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（地方）+13/+17：智调9+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（工程）+13/+17：智调9+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 知识（地理）+13/+17：智调9+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 工艺（炼金）+17/+19：智调9+技能点5+本职技能3+[化泪为酒2(增强)]
-- 语言学+13/+15：智调9+技能点1+本职技能3+[化泪为酒2(增强)]
-- 估价+13/+15：智调9+技能点1+本职技能3+[化泪为酒2(增强)]
-- 察觉+17/+21：感调3+技能点8+本职技能3+模式追寻着1(背景)+警觉2+[化泪为酒2(增强)]+[强化认知2(表现)]
-- 察言观色+16/+18：感调3+技能点8+本职技能3+警觉2+[化泪为酒2(增强)]
+- 飞行+5：敏调1+技能点1+本职技能3
+- 法术辨识+18/+20：智调7+技能点7+本职技能3+破损的深红混蓝艾恩石1(表现)+[化泪为酒2(增强)]
+- 知识（奥秘）+20/+24：智调7+技能点7+本职技能3+技能专攻3+[化泪为酒2(增强)]+[强化认知2(表现)]
+- 知识（宗教）+17/+21：智调7+技能点7+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
+- 知识（位面）+17/+21：智调7+技能点7+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
+- 知识（地城）+17/+21：智调7+技能点7+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
+- 知识（自然）+11/+15：智调7+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
+- 知识（贵族）+11/+15：智调7+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
+- 知识（历史）+11/+15：智调7+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
+- 知识（地方）+11/+15：智调7+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
+- 知识（工程）+11/+15：智调7+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
+- 知识（地理）+11/+15：智调7+技能点1+本职技能3+[化泪为酒2(增强)]+[强化认知2(表现)]
+- 工艺（炼金）+15/+17：智调7+技能点5+本职技能3+[化泪为酒2(增强)]
+- 语言学+11/+13：智调7+技能点1+本职技能3+[化泪为酒2(增强)]
+- 估价+11/+13：智调7+技能点1+本职技能3+[化泪为酒2(增强)]
+- 察觉+16/+20：感调3+技能点7+本职技能3+模式追寻着1(背景)+警觉2+[化泪为酒2(增强)]+[强化认知2(表现)]
+- 察言观色+15/+17：感调3+技能点7+本职技能3+警觉2+[化泪为酒2(增强)]
 - 医疗+7/+9：感调3+技能点1+本职技能3+[化泪为酒2(增强)]
 - 交涉+2：魅调-2+技能点1+本职技能3
 
@@ -114,7 +113,6 @@
 [镜中藏身处](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mirror%20hideaway)<sup>ACG</sup>
 [共享记忆](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=share%20memory)<sup>UM</sup>
 [光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>
-[虚假生命](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=false%20life)
 - 3环（虚学派赠送1+抄录获得）：
 [暮光之刃](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=twilight%20knife)<sup>APG</sup>
 [解除魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20magic)
@@ -127,16 +125,11 @@
 [血之讯息](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=blood%20biography)<sup>APG</sup>
 [萌龙仆从](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=draconic%20ally)<sup>PPC-LoD</sup>
 [缓慢术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=slow)
-[臭云术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=stinking%20cloud)
-[超越之障](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=ablative%20barrier)<sup>UC</sup>
-[锐锋术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=keen%20edge)
 - 4环（虚学派赠送1+抄录获得）：
 [冰墙术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wall%20of%20ice)
 [困惑术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=confusion)
 [黑触手](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=black%20tentacles)
 [高等隐形术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=invisibility,%20greater)
-[紧急力场护罩](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=emergency%20force%20sphere)<sup>PPC-CEoD</sup>
-[自发性散瞳](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mydriatic%20spontaneity)<sup>PPC-BoS</sup>
 [探知](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=scrying)
 
 <!--[避难小屋](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=tiny%20hut)-->
@@ -146,7 +139,7 @@
 <!--[次元锚](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dimensional%20anchor)<sup>CRB</sup>-->
 <!--备卷：通晓语言，脚底抹油，强化认知，封门术，坐骑术，隐雾术，无声幻影-->
 
-### 牧师表环位数量/日常准备列表（SCL6，CL7）
+### 牧师表环位数量/日常准备列表（SCL5，CL6）
 
 掌控领域：旅行领域
 
@@ -161,53 +154,47 @@
 [重负术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=ant%20haul)<sup>APG</sup>（常驻）
 [脱困指令](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=liberating%20command)<sup>UC, PPC-ASoL</sup>
 +[大步奔行](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=longstrider)（常驻）
-- 二环3+1（基础3+属性奖励1+领域1）
-[化泪为酒](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=tears%20to%20wine)<sup>PPC-AAnth</sup>（70min）
+- 二环3+1（基础2+属性奖励1+领域1）
+[化泪为酒](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=tears%20to%20wine)<sup>PPC-AAnth</sup>（60min）
 [光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>（DC16）
 [第三只手](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=pilfering%20hand)<sup>UC</sup>
-[殉道者之约](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=martyr%27s%20bargain)<sup>PCS-ISI</sup>
 +[克敌机先](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=true%20strike)<sup>CRB</sup>
-- 三环2+1（基础2+属性奖励1+领域1）
+- 三环2+1（基础1+属性奖励1+领域1）
 [幸运灯塔](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=beacon%20of%20luck)<sup>PCS-ISG</sup>
 [共用延迟毒发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=delay%20poison,%20communal)<sup>UC</sup>
-[复苏之风](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=second%20wind)<sup>PPC-EMH</sup>
 +[透支幸运](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=borrow%20fortune)<sup>APG</sup>
 
-### 法师表环位数量/日常准备列表（SCL8，CL8）
+### 法师表环位数量/日常准备列表（SCL7，CL7）
 
 - 戏法4（基础4）
 [开关术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=open-close)
 [法师之手](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mage%20hand)
 [魔法技俩](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=prestidigitation)
 [传讯术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=message)
-- 一环7+1（基础4+属性奖励3+学派1）
-[法师护甲](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mage%20armor)（常驻）
-[护盾术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=shield)
-[油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=grease)（DC20）
-[既视感](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=deja%20vu)<sup>OA</sup>
-[水流冲击](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=hydraulic%20push)<sup>APG</sup>
-[强化认知](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=heightened%20awareness)<sup>ACG</sup>（70min）
+- 一环6+1（基础4+属性奖励2+学派1）
 [预知危险](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=anticipate%20peril)<sup>UM</sup>
+[油腻术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=grease)（DC18）
+[既视感](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=deja%20vu)
+[七彩喷射](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=color%20spray)（DC18）
+[强化认知](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=heightened%20awareness)<sup>ACG</sup>（70min）
+[水流冲击](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=hydraulic%20push)<sup>APG</sup>
 +[克敌机先](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=true%20strike)
 - 二环5+1（基础3+属性奖励2+学派1）
-[虚假生命](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=false%20life)（常驻）
-[镜影术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mirror%20image)
-[闪光尘](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=glitterdust)（DC21）
-[蛛网术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=web)（DC21）
-[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>（DC22）
+[闪光尘](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=glitterdust)（DC19）
+[蛛网术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=web)（DC19）
+[造坑术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=create%20pit)<sup>APG</sup>（DC19）
+[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>（DC20）
+空置
 +[识破隐形](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=see%20invisibility)
-- 三环5+1（基础3+属性奖励2+学派1）
-[超越之障](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=ablative%20barrier)<sup>UC</sup>（常驻）
-[锐锋术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=keen%20edge)
+- 三环3+1（基础2+属性奖励2+学派1）
 [加速术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=haste)x2
-[臭云术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=stinking%20cloud)（DC22）
+[缓慢术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=slow)（DC20）
+空置
 +[解除魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20magic)
-- 四环4+1（基础2+属性奖励2+学派1）
-[困惑术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=confusion)（DC23）
-[冰墙术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wall%20of%20ice)（DC23）
-[自发性散瞳](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mydriatic%20spontaneity)<sup>PPC-BoS</sup>（DC24）
-[紧急力场护罩](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=emergency%20force%20sphere)<sup>PPC-CEoD</sup>
-+[游荡星尘](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wandering%20star%20motes)<sup>APG</sup>（DC23）
+- 四环2+1（基础1+属性奖励1+学派1）
+[困惑术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=confusion)（DC21）
+[冰墙术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wall%20of%20ice)
++[游荡星尘](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wandering%20star%20motes)<sup>APG</sup>（DC21）
 
 ## 专长
 
@@ -480,7 +467,7 @@ Born to two races, half-elves have a knack for combining different magical tradi
 
 <details>
 <summary>
-揭示弱点（Su），每日12次=基础3+智调9，4减值=1/2施法者等级8
+揭示弱点（Su），每日9次=基础3+智调6，3减值=1/2施法者等级6
 </summary>
 每当你以一个标准动作发动此学派能力，你就可以选择距离你30尺内的一个敌人目标，此生物会在防御等级和所有的豁免投骰上受到等于你的施法者等级1/2的减值（最少为1），持续1轮。你每天可以使用此能力的次数等于3+你的智力调整值。
 </details>
@@ -532,7 +519,7 @@ Born to two races, half-elves have a knack for combining different magical tradi
 
 - 主手：+1训练精通先攻星刃
 - 副手：次等延时超魔权杖
-- 头环：+6智力头环
+- 头环：+2智力头环
 
 ### 包里的物品
 
@@ -616,14 +603,14 @@ Born to two races, half-elves have a knack for combining different magical tradi
 
 ## 防御
 
-- HP32（1HD）：星生命值一半
+- HP25（1HD）：星生命值一半
 - AC16：基础10+体型2+敏调3+魔宠天防1(天防)
 - 措手不及AC13：基础10+体型2+魔宠天防1(天防)
 - 接触AC15：基础10+体型2+敏调3
 - CMD11：基础10+BAB2+力调-2+敏调3+体型-2
-- 强韧+6：基础max{2+2,2}+体调0+抗力披风1(抗力)+幸运章鱼1(运气)
-- 反射+10：基础max{2,2}+敏调3+闪电反射2+抗力披风1(抗力)+幸运章鱼1(运气)
-- 意志+12：基础max{2+3+3,0}+感调2+抗力披风1(抗力)+幸运章鱼1(运气)
+- 强韧+5：基础max{2+1,2}+体调0+抗力披风1(抗力)+幸运章鱼1(运气)
+- 反射+9：基础max{1,2}+敏调3+闪电反射2+抗力披风1(抗力)+幸运章鱼1(运气)
+- 意志+11：基础max{2+3+2,0}+感调2+抗力披风1(抗力)+幸运章鱼1(运气)
 
 
 ## 进攻
@@ -652,7 +639,7 @@ Born to two races, half-elves have a knack for combining different magical tradi
 
 - 飞行+11：敏调3+技能点max{1,1}+本职技能3+超小型4
 - 隐匿+11：敏调3+技能点max{0,1}+本职技能3+超小型4
-- 察觉+13/+15：感调2+技能点max{8,1}+本职技能3+[化泪为酒2(增强)]
+- 察觉+12/+14：感调2+技能点max{7,1}+本职技能3+[化泪为酒2(增强)]
 
 ## 专长
 
@@ -726,7 +713,7 @@ Born to two races, half-elves have a knack for combining different magical tradi
 
 # 云
 
-延时萌龙仆从（8cl），250gp/16天
+延时萌龙仆从（6cl），250gp/12天
 
 - 种族：伪龙，梦境龙
 - 性别：雌
