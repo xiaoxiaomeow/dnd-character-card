@@ -13,3 +13,4 @@
 - [四季鬼志，疾旋鼬牧师 花](season_of_ghosts/花.md)
 - [破碎魔星，神裔牧师 星](shattered_star/星.md)
 - [地狱复仇重置，龙裔神卫 星](hell's_vengeance_remake/星.md)
+- [钢铁诸神 半精灵秘学 星](iron_gods/星.md)
