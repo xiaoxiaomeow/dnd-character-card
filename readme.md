@@ -10,6 +10,8 @@
 - [铁牙入侵，半精灵牧师 星](ironfang_invasion/星.md)（车了但没参团）
 - [地狱叛军，半精灵秘术师 星](hell's_rebels/星.md)
 - [冬临天下，人类牧师 星](reign_of_winter/星.md)（车了但没参团）
-- [四季鬼志，疾旋鼬牧师 花](season_of_ghosts/花.md)
+- [四季鬼志，疾旋鼬牧师 花](season_of_ghosts/花.md)（结团）
 - [破碎魔星，神裔牧师 星](shattered_star/星.md)
 - [地狱复仇重置，龙裔神卫 星](hell's_vengeance_remake/星.md)
+- [钢铁诸神 半精灵秘学 星](iron_gods/秘学星.md)（废案）
+- [钢铁诸神 半精灵牧师 星](iron_gods/星.md)
