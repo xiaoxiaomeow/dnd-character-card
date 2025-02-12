@@ -14,20 +14,20 @@
 - 语言：通用语，天界语，龙语
 - 职业：牧师5
 - 变体：异端
-- 职业：观星者3
+- 职业：观星者2
 
 ----
 
 ## 防御
 
-- HP75（8HD）：生命骰8+体调4+(生命骰5+体调4)\*4+(生命骰4+体调4)\*3+fcb3
+- HP66（7HD）：生命骰8+体调4+(生命骰5+体调4)\*4+(生命骰4+体调4)\*2+fcb2
 - AC17：基础10+敏调2+链甲衫4(盔甲)+精制品轻木盾1(盾牌)
 - 措手不及AC15：基础10+链甲衫4(盔甲)+精制品轻木盾1(盾牌)
 - 接触AC12：基础10+敏调2
 - CMD16：基础10+BAB4+力调0+敏调2
 - 强韧+9：基础4+1+体调4
-- 反射+5：基础1+2+敏调2
-- 意志+14/+16：基础4+2+感调8+[对抗影响心智效果:坚御心智2(洞察)]
+- 反射+4：基础1+1+敏调2
+- 意志+12：基础4+1+感调7
 
 ----
 
@@ -35,7 +35,7 @@
 
 - 先攻+13：敏调2+精通先攻4+翼龙魔宠4+观星者座2(洞察)+破损的干燥玫瑰艾恩石1(表现)
 - 移动速度30尺：基础30
-- BAB：5
+- BAB：4
 
 ----
 
@@ -45,7 +45,7 @@
 - 敏捷14（+2）：骰点14
 - 体质19（+4）：骰点17+种族2
 - 智力14（+2）：骰点14
-- 感知26（+8）：骰点18+种族2+属性成长2+感知头环4(增强)
+- 感知25（+7）：骰点18+种族2+属性成长1+感知头环4(增强)
 - 魅力16（+3）：骰点16
 
 ----
@@ -68,14 +68,14 @@ HR牧师本职技能：察觉，知识（本地）
 
 技能点6/等级：牧师HR/观星者4+智调2
 
-- 法术辨识+13/+15：智调2+技能点8+本职技能3+[造物时:精制品工具2(环境)]+[化泪为酒2(增强)]
-- 知识（地理）+10/+12：智调2+技能点5+本职技能3+[化泪为酒2(增强)]
-- 知识（位面）+14/+16：智调2+技能点7+本职技能3+生于天界2(种族)+[化泪为酒2(增强)]
-- 知识（宗教）+23/+25：感调8+技能点8+本职技能3+技能专攻3+外乡来客1(背景)+[化泪为酒2(增强)]
-- 察觉+21/+23：感调8+技能点8+本职技能3+精制品工具2(环境)+[化泪为酒2(增强)]
-- 察言观色+21/+23：感调8+技能点8+本职技能3+精制品工具2(环境)+[化泪为酒2(增强)]
-- 医疗+12：感调8+技能点1+本职技能3
-- 生存+14：感调8+技能点3+本职技能3
+- 法术辨识+12/+14：智调2+技能点7+本职技能3+[造物时:精制品工具2(环境)]
+- 知识（地理）+10：智调2+技能点5+本职技能3
+- 知识（位面）+12：智调2+技能点5+本职技能3+生于天界2(种族)
+- 知识（宗教）+18：感调7+技能点7+本职技能3+外乡来客1(背景)
+- 察觉+19：感调7+技能点7+本职技能3+精制品工具2(环境)
+- 察言观色+19：感调7+技能点7+本职技能3+精制品工具2(环境)
+- 医疗+11：感调7+技能点1+本职技能3
+- 生存+13：感调7+技能点3+本职技能3
 
 ----
 
@@ -83,15 +83,15 @@ HR牧师本职技能：察觉，知识（本地）
 
 ### 领域法术
 
-- 一环：[克敌机先](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=true%20strike) / [防护邪恶](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=protection%20from%20evil) / [羽落术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=feather%20fall)
-- 二环：[占卜术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=augury) / [阵营武器](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=align%20weapon) / [催眠图纹](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=hypnotic%20pattern)
-- 三环：[透支幸运](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=borrow%20fortune)<sup>APG</sup> / [反邪恶法阵](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=magic%20circle%20against%20evil) / [飞行术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=fly)
-- 四环：[行动自如](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=freedom%20of%20movement) / [圣光击](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=holy%20smite) / [次等异界誓缚](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=planar%20binding,%20lesser)
-- 五环：[破除结界](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=break%20enchantment) / [反制邪恶](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20evil) / [翱翔天际](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=overland%20flight)
-- 六环：[假象术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mislead) / [剑刃护壁](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=blade%20barrier) / [异界誓缚](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=planar%20binding)
-- 七环：[法术反转](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=spell%20turning) / [圣言](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=holy%20word) / [阳炎射线](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=sunbeam)
-- 八环：[片刻预知](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=moment%20of%20prescience) / [圣洁灵光](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=holy%20aura) / [高等异界誓缚](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=planar%20binding,%20greater)
-- 九环：[神迹术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=miracle) / [召唤怪物 IX](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=summon%20monster%209) / [流星爆](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=meteor%20swarm)
+- 一环：[克敌机先](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=true%20strike) / [防护邪恶](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=protection%20from%20evil)
+- 二环：[占卜术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=augury) / [阵营武器](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=align%20weapon)
+- 三环：[透支幸运](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=borrow%20fortune)<sup>APG</sup> / [反邪恶法阵](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=magic%20circle%20against%20evil)
+- 四环：[行动自如](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=freedom%20of%20movement) / [圣光击](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=holy%20smite)
+- 五环：[破除结界](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=break%20enchantment) / [反制邪恶](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20evil)
+- 六环：[假象术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mislead) / [剑刃护壁](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=blade%20barrier)
+- 七环：[法术反转](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=spell%20turning) / [圣言](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=holy%20word)
+- 八环：[片刻预知](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=moment%20of%20prescience) / [圣洁灵光](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=holy%20aura)
+- 九环：[神迹术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=miracle) / [召唤怪物 IX](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=summon%20monster%209)
 
 ### 环位数量/日常准备列表
 
@@ -106,27 +106,25 @@ HR牧师本职技能：察觉，知识（本地）
 [移除恶心](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=remove%20sickness)<sup>UM</sup>
 [永固之心](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=unbreakable%20heart)<sup>PCS-ISWG, PCS-GoM</sup>
 [脱困指令](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=liberating%20command)<sup>UC, PPC-ASoL</sup>
-[谋杀指令](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=murderous%20command)<sup>UM</sup>（DC19）
+[谋杀指令](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=murderous%20command)<sup>UM</sup>（DC18）
 空置
 +[克敌机先](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=true%20strike)
 
 - 二环5+1（基础3+属性奖励2+领域1）
-[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>x2（DC21）
+[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>x3（DC20）
 [移除麻痹](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=remove%20paralysis)
-[压制魅惑与胁迫](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=suppress%20charms%20and%20compulsions)<sup>AG, PPC-ASoL</sup>
-[化泪为酒](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=tears%20to%20wine)<sup>PPC-AAnth</sup>
+空置
 +[防护邪恶](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=protection%20from%20evil)
 
-- 三环5+1（基础3+属性奖励2+领域1）
-[解除魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20magic)（解法检定+9）x3
-[幸运灯塔](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=beacon%20of%20luck)<sup>PCS-ISG</sup>（8min）
-[共用延迟毒发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=delay%20poison,%20communal)<sup>UC</sup>（8h）
+- 三环4+1（基础2+属性奖励2+领域1）
+[解除魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20magic)（解法检定+8）
+[幸运灯塔](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=beacon%20of%20luck)<sup>PCS-ISG</sup>（7min）
+[共用延迟毒发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=delay%20poison,%20communal)<sup>UC</sup>（7h）
+[破晓之箭](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=daybreak%20arrow)<sup>UC</sup>（80min）
 +[透支幸运](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=borrow%20fortune)<sup>APG</sup>
 
-- 四环4+1（基础2+属性奖励2+领域1）
-[行动自如](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=freedom%20of%20movement)x2（80min）
-[凌空而行](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=air%20walk)（80min）
-[神怒武器](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wrathful%20weapon)<sup>PPC-ACO</sup>
+- 四环2+1（基础1+属性奖励1+领域1）
+[行动自如](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=freedom%20of%20movement)x2（70min）
 +[透支幸运](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=borrow%20fortune)<sup>APG</sup>
 
 ----
@@ -145,14 +143,24 @@ HR牧师本职技能：察觉，知识（本地）
 
 <details>
 <summary>
-3级：技能专攻 (Skill Focus) <sup>CRB</sup>，宗教
+3级：祝福武具 (Bless Equipment) <sup>PPC-USH</sup>
 </summary>
 
-选择一项技能。你特别擅长该技能。
+通过接触，你可以祝福武具，给予它们魔法能力。
 
-专长效果: 你在所有涉及该技能的检定上获得+3加值。如果你该技能的等级为10或更高，此加值提升为+6。
+先决条件: 施法者等级3级，引导能量职业能力。
 
-特殊说明: 你可以多次选取此专长。其效果不叠加。每次你获得此专长时，它作用于一种新技能。
+专长效果: 用一个标准动作，你可以花费引导能量次数接触一个单独的武器、护甲或盾牌，临时给予它们一些特殊能力。给予的能力不同，会花费不同的引导次数，具体见表，同时你必须满足该能力所需要的施法者等级。
+
+祝福的持续轮数等同于你引导能量的股数（例如3d6的引导就持续3轮），在该时限内被祝福的武具视为拥有该能力。如果被祝福的武具使用者非自愿，则需要进行一个豁免对抗引导能量能力（针对引导能量的豁免和抗力如常生效）。若该生物豁免成功，则引导次数消耗而祝福无效。
+
+只有魔法和精制品武器、护甲、盾牌可以被该专长祝福。在祝福精制品武具时，会额外消耗1次引导次数使该武具在时限内变成+1魔法武具。
+
+同一时间你只能祝福1件武具。被重复祝福的一件武具，新的祝福效果会替换掉旧的祝福效果，持续时间重置为新的效果。
+
+<table><tbody><tr><th>武器祝福</th><th>使用引导次数</th><th>施法者等级需求</th></tr><tr><td>破敌（祝福时选择类型）</td><td>2</td><td>3</td></tr><tr><td>幽冥</td><td>2</td><td>3</td></tr><tr><td>瓦解</td><td>3</td><td>6</td></tr><tr><td>命潮</td><td>3</td><td>6</td></tr><tr><td>抵消</td><td>4</td><td>9</td></tr></tbody></table>
+
+<table><tbody><tr><th>护甲/盾牌祝福</th><th>使用引导次数</th><th>施法者等级需求</th></tr><tr><td>拒亡</td><td>2</td><td>3</td></tr><tr><td>止血</td><td>2</td><td>3</td></tr><tr><td>幽冥</td><td>3</td><td>6</td></tr><tr><td>操灵</td><td>4</td><td>9</td></tr></tbody></table>
 </details>
 
 <details>
@@ -257,23 +265,16 @@ HR牧师本职技能：察觉，知识（本地）
 
 <details>
 <summary>
-小幸运（Bit of Luck, Sp），10次/日=基础3+感调8+禁忌领域-1
+小幸运（Bit of Luck, Sp），9次/日=基础3+感调7+禁忌领域-1
 </summary>
 你可以用一个标准动作碰触一个自愿的生物，使其沾到点运气。在接下来一轮中，目标任何时候投掷一个D20，都可以投两次并选择其中较好的结果。每日你可以使用本能力的次数为“3+感知修正”。
 </details>
 
 <details>
 <summary>
-善良之触（Touch of Good, Sp），11次/日=基础3+感调8，加值4=1/2牧师等级8
+善良之触（Touch of Good, Sp），10次/日=基础3+感调7，加值2=1/2牧师等级5
 </summary>
 你能用一个标准动作来接触一个生物，使之在1轮中的攻击、技能、属性、豁免检定获得你牧师等级的一半加值（最小1）。你每天可以使用此能力次数“3+感知修正”。
-</details>
-
-<details>
-<summary>
-神圣之枪（Holy Lance, Su）
-</summary>
-在8级，你能够通过触碰使得一个武器获得“神圣”附魔，持续轮数为一半牧师等级。在8级你能够使用该能力每天1次，以后每比8级多4级增加1次。
 </details>
 
 <details>
@@ -326,20 +327,6 @@ HR牧师本职技能：察觉，知识（本地）
 </summary>
 
 与观星者同名的星座向他发出警告。这让观星者的先攻检定获得+2洞察加值，而且自身在战斗中进行行动之前不会被视为措手不及（flat-footed），但是该效果并不会真的让他能够提前进行行动。
-</details>
-
-<details>
-<summary>
-坚御心智（Guarded Mind, Ex）
-</summary>
-对抗影响心智效果时，你的豁免获得+2洞察加值。
-</details>
-
-<details>
-<summary>
-群星归位（The Stars Are Right, Su）
-</summary>
-如果你在可以观察到星空的环境下准备牧师法术，那么你可以将其他同级的法术位用来自发施放星辰子域的领域法术。另外，在可以观察到星空的环境下，你施放的任何星辰子域的领域法术将为你恢复相当于该法术等级的伤害；这个效果将在你施法的同时发生。此能力替换虚空领域的错裂面纱能力。
 </details>
 
 ----
@@ -444,24 +431,24 @@ HR牧师本职技能：察觉，知识（本地）
 ## 防御
 
 - HP33（1HD）：蝶生命值一半
-- AC19：基础10+体型2+敏调3+魔宠天防2(天防)
-- 措手不及AC16：基础10+体型2+魔宠天防2(天防)
+- AC18：基础10+体型2+敏调3+魔宠天防1(天防)
+- 措手不及AC15：基础10+体型2+魔宠天防1(天防)
 - 接触AC15：基础10+体型2+敏调3
 - CMD12：基础10+BAB3+力调-2+敏调3+体型-2
 - 强韧+5：基础4+1+体调0
-- 反射+8：基础1+2+敏调3+闪电反射2
-- 意志+8：基础4+2+感调2
+- 反射+7：基础1+1+敏调3+闪电反射2
+- 意志+7：基础4+1+感调2
 
 ----
 
 ## 进攻
 
 - 移动速度10尺，40尺飞行（一般）
-- BAB：5
-- CMB+6：BAB5+敏调3+体型-2
-- 近战攻击命中+10：BAB5+敏调4+体型2
+- BAB：4
+- CMB+5：BAB4+敏调3+体型-2
+- 近战攻击命中+9：BAB4+敏调4+体型2
 - 近战攻击伤害-2：力调-2
-- - 啮咬，+10命中，1d3-2钝击/穿刺/挥砍
+- - 啮咬，+9命中，1d3-2钝击/穿刺/挥砍
 
 ----
 
@@ -470,7 +457,7 @@ HR牧师本职技能：察觉，知识（本地）
 - 力量6（-2）：基础6
 - 敏捷17（+3）：基础17
 - 体质11（+0）：基础11
-- 智力7（-2）：基础2，魔宠智力=7
+- 智力6（-2）：基础2，魔宠智力=6
 - 感知14（+2）：基础14
 - 魅力11（+0）：基础11
 
@@ -537,20 +524,4 @@ HR牧师本职技能：察觉，知识（本地）
 意志共存（Share Will，Su）
 </summary>
 每当神使或其主人在对抗影响心灵效果（mind-affecting effect）的豁免中失败，且该效果仅影响他们两者之一的话，另外一人也可以尝试进行豁免。若第二次豁免成功，那么视为最初的豁免结果是成功的结果，不过神使和其主人在24小时内无法再次使用该能力。在第二次豁免失败时，神使与其主人都会承受豁免失败带来的效果，即便他们其中之一并非有效的目标也是如此。该能力取代法术共享（Share Spells）。
-</details>
-
-<details>
-<summary>
-领域之力（Domain Influence，Sp or Su），幸运领域
-</summary>
-
-3级起，神使从遣送它的存在那里获得了神赐之力的余光。选择一个合适的领域（domain），这个领域要提供每日使用次数为3 + 使用者的感知调整值的1级神授力量（domain power）。神使每日能够使用1次该神授力量。该能力取代传递接触法术（Deliver Touch Spells）。
-</details>
-
-<details>
-<summary>
-小幸运（Bit of Luck, Sp），1次/日
-</summary>
-
-你可以用一个标准动作碰触一个自愿的生物，使其沾到点运气。在接下来一轮中，目标任何时候投掷一个D20，都可以投两次并选择其中较好的结果。每日你可以使用本能力的次数为“3+感知修正”。
 </details>
