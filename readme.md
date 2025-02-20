@@ -13,6 +13,7 @@
 - [四季鬼志，疾旋鼬牧师 花](season_of_ghosts/花.md)（结团）
 - [破碎魔星，神裔牧师 星](shattered_star/星.md)
 - [地狱复仇重置，龙裔神卫 星](hell's_vengeance_remake/星.md)
-- [钢铁诸神 半精灵秘学 星](iron_gods/秘学星.md)（废案）
-- [钢铁诸神 半精灵牧师 星](iron_gods/星.md)
+- [钢铁诸神 半精灵施法秘学 星](iron_gods/秘学星.md)（废案）
+- [钢铁诸神 半精灵牧师 星](iron_gods/牧师星.md)（废案）
+- [钢铁诸神 半精灵菜刀秘学 星](iron_gods/星.md)
 - [颅骨与镣铐 半精灵法师 星](skull_and_shackles/星.md)
