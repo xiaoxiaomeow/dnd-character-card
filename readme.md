@@ -18,3 +18,4 @@
 - [钢铁诸神 半精灵菜刀秘学 星](iron_gods/星.md)
 - [颅骨与镣铐 半精灵法师 星](skull_and_shackles/星.md)
 - [拥王者 伽瑟兰操念使 光](kingmaker/光.md)
+- [赤凰斗士 半精灵游侠 星](ruby_phoenix/星.md)
