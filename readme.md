@@ -19,4 +19,4 @@
 - [颅骨与镣铐 半精灵法师 星](skull_and_shackles/星.md)（炸团）
 - [拥王者 伽瑟兰操念使 光](kingmaker/光.md)（炸团）
 - [赤凰斗士 半精灵游侠 星](ruby_phoenix/星.md)
-- [拥王者重置 小妖精炼金术士 光](kingmaker_remake/光.md)
+- [拥王者重置 半身人炼金术士 光](kingmaker_remake/光.md)
