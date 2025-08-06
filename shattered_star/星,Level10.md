@@ -15,20 +15,19 @@
 - 职业：牧师5
 - 变体：异端
 - 职业：观星者5
-- 职业：博学士1
 
 ----
 
 ## 防御
 
-- HP101（11HD）：生命骰8+体调4+(生命骰5+体调4)\*4+(生命骰4+体调4)\*6+fcb5
+- HP93（10HD）：生命骰8+体调4+(生命骰5+体调4)\*4+(生命骰4+体调4)\*5+fcb5
 - AC19/23：基础10+敏调2+繁星罩衫6(盔甲)+精制品轻木盾1(盾牌)+[魔化防具4(盾牌增强)]
 - 措手不及AC17/21：基础10+繁星罩衫6(盔甲)+精制品轻木盾1(盾牌)+[魔化防具4(盾牌增强)]
 - 接触AC12：基础10+敏调2
 - CMD17：基础10+BAB5+力调0+敏调2
 - 强韧+14/+16：基础4+2+体调4+幸运头带1(运气)+抗力披风3(抗力)+[幸运灯塔2(崇圣)]
 - 反射+10/+12：基础1+3+敏调2+幸运头带1(运气)+抗力披风3(抗力)+[幸运灯塔2(崇圣)]
-- 意志+23/+25/+27：基础4+3+1+感调9+定心秘技2+幸运头带1(运气)+抗力披风3(抗力)+[幸运灯塔2(崇圣)]+[对抗影响心智效果:坚御心智2(洞察)]
+- 意志+20/+22/+24：基础4+3+感调9+幸运头带1(运气)+抗力披风3(抗力)+[幸运灯塔2(崇圣)]+[对抗影响心智效果:坚御心智2(洞察)]
 
 ----
 
@@ -67,15 +66,15 @@
 
 HR牧师本职技能：察觉，知识（本地）
 
-技能点6/等级：牧师HR/观星者4/博学士4+智调2
+技能点6/等级：牧师HR/观星者4+智调2
 
-- 飞行+15：敏调2+技能点2+本职技能3+机动性良好4+施法者等级一半4
-- 法术辨识+16/+18/+21：智调2+技能点11+本职技能3+[造物时:精制品工具2(环境)]+[化泪为酒5(增强)]
+- 飞行+14：敏调2+技能点1+本职技能3+机动性良好4+施法者等级一半4
+- 法术辨识+15/+17/+20：智调2+技能点10+本职技能3+[造物时:精制品工具2(环境)]+[化泪为酒5(增强)]
 - 知识（地理）+10/+15：智调2+技能点5+本职技能3+[化泪为酒5(增强)]
-- 知识（位面）+18/+23：智调2+技能点11+本职技能3+生于天界2(种族)+[化泪为酒5(增强)]
-- 知识（宗教）+30/+35：感调9+技能点11+本职技能3+技能专攻6+外乡来客1(背景)+[化泪为酒5(增强)]
-- 察觉+25/+30：感调9+技能点11+本职技能3+精制品工具2(环境)+[化泪为酒5(增强)]
-- 察言观色+25/+30：感调9+技能点11+本职技能3+精制品工具2(环境)+[化泪为酒5(增强)]
+- 知识（位面）+17/+22：智调2+技能点10+本职技能3+生于天界2(种族)+[化泪为酒5(增强)]
+- 知识（宗教）+29/+34：感调9+技能点10+本职技能3+技能专攻6+外乡来客1(背景)+[化泪为酒5(增强)]
+- 察觉+24/+29：感调9+技能点10+本职技能3+精制品工具2(环境)+[化泪为酒5(增强)]
+- 察言观色+24/+29：感调9+技能点10+本职技能3+精制品工具2(环境)+[化泪为酒5(增强)]
 - 医疗+13/+18：感调9+技能点1+本职技能3+[化泪为酒5(增强)]
 - 生存+15/+20：感调9+技能点3+本职技能3+[化泪为酒5(增强)]
 
@@ -118,33 +117,29 @@ HR牧师本职技能：察觉，知识（本地）
 [压制魅惑与胁迫](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=suppress%20charms%20and%20compulsions)<sup>AG, PPC-ASoL</sup>（给魔宠）
 [优雅步伐](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=grace)<sup>APG</sup>
 [光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>（DC22）
-[第三只手](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=pilfering%20hand)<sup>UC</sup>（CMB+19）
+[第三只手](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=pilfering%20hand)<sup>UC</sup>（CMB+18）
 +[防护邪恶](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=protection%20from%20evil)
 
-- 三环6+1（基础4+属性奖励2+领域1）
-[解除魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20magic)（解法检定+12，其中一个给魔宠）x3
+- 三环5+1（基础3+属性奖励2+领域1）
+[解除魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20magic)（解法检定+11，其中一个给魔宠）x2
 [幸运灯塔](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=beacon%20of%20luck)<sup>PCS-ISG</sup>（10min）
 [共用延迟毒发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=delay%20poison,%20communal)<sup>UC</sup>（每人1h）
-[复苏之风](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=second%20wind)<sup>PPC-EMH</sup>（回复2d8+21）
+[复苏之风](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=second%20wind)<sup>PPC-EMH</sup>（回复2d8+20）
 +[透支幸运](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=borrow%20fortune)<sup>APG</sup>（给魔宠）
 
 - 四环5+1（基础3+属性奖励2+领域1）
-[行动自如](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=freedom%20of%20movement)x2（110min）
-[神怒武器](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wrathful%20weapon)<sup>PPC-ACO</sup>（11min）
-顽强[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>（DC22）x2
+[行动自如](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=freedom%20of%20movement)x2（100min）
+[神怒武器](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wrathful%20weapon)<sup>PPC-ACO</sup>（10min）
+顽强[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>（DC22）
+[解除魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20magic)（解法检定+11）
 +[透支幸运](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=borrow%20fortune)<sup>APG</sup>
 
 - 五环4+1（基础2+属性奖励2+领域1）
-[无相之风](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=fickle%20winds)<sup>UM</sup>（11min）
+[无相之风](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=fickle%20winds)<sup>UM</sup>（10min）
 [维生气泡](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=life%20bubble)<sup>APG</sup>（每人1h）
-[石墙术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wall%20of%20stone)
 [生命之息](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=breath%20of%20life)
+[破除结界](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=break%20enchantment)
 +[翱翔天际](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=overland%20flight)
-
-- 六环2+1（基础1+属性奖励1+领域1）
-[医疗术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=heal)
-顽强[驱逐术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dismissal)
-+[破除结界](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=break%20enchantment)
 
 ----
 
@@ -204,20 +199,6 @@ HR牧师本职技能：察觉，知识（本地）
 先决条件: 施法者等级9级。
 
 专长效果: 你能制造魔法权杖。权杖的每1000gp基本价格将使制造时间延长1天。加工所需耗材的价值为成品价格的一半。更多信息请参见魔法物品规则。
-</details>
-
-<details>
-<summary>
-11级：魔法训练秘闻（Secret of Magical Discipline）
-</summary>
-
-你对魔法的研究跟热忱，让你能够施展自身所知范围之外的法术。
-
-先决条件：秘闻职业能力。
-
-效果：每天一次，你可以施展任何法术，就好像该法术是你已准备或已知的法术之一。此动作会消耗法术位或者同环的已准备法术。若以这种方式施展法术，其最低的施法时间为1整轮。
-
-特殊说明：你可以多次选取此专长。你每次选取此专长，每天便能再多施展一次此能力。
 </details>
 
 <!--
@@ -415,16 +396,6 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 你创造出一件闪着缈缈星光的大衣，这件大衣给予你+4的盔甲加值。7级还有之后的每4级，此加值提升2点，13级这件盔甲给予你伤害减免5/挥砍。你每天可以使用此能力的时间为每先知等级1小时，使用的时间不须连续，但每次使用最少消耗1小时。
 </details>
 
-来自博学士：
-
-<details>
-<summary>
-秘闻（Secret），1级定心密技（意志豁免获+2加值）
-</summary>
-
-1级开始，博学士可从下表选择一项秘闻，之后每2级（3级、5级、7级、9级时）可各再选择一项。博学士等级加上智力修正决定其可选择的秘闻。已习得的秘闻不能重复选择。
-</details>
-
 ----
 
 ## 天赋职业奖励
@@ -503,14 +474,14 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 
 ## 防御
 
-- HP50（1HD）：蝶生命值一半
+- HP46（1HD）：蝶生命值一半
 - AC20：基础10+体型2+敏调3+魔宠天防3(天防)
 - 措手不及AC17：基础10+体型2+魔宠天防3(天防)
 - 接触AC15：基础10+体型2+敏调3
 - CMD15：基础10+BAB6+力调-2+敏调3+体型-2
 - 强韧+6：基础4+2+体调0
 - 反射+9：基础1+3+敏调3+闪电反射2
-- 意志+10：基础4+3+1+感调2
+- 意志+9：基础4+3+感调2
 
 ----
 
