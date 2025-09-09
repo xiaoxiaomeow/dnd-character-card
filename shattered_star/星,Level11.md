@@ -14,16 +14,16 @@
 - 语言：通用语，天界语，龙语
 - 职业：牧师5
 - 变体：异端
-- 职业：观星者6
+- 职业：观星者5
 - 职业：博学士1
 
 ----
 
 ## 防御
 
-- HP110（12HD）：生命骰8+体调4+(生命骰5+体调4)\*4+(生命骰4+体调4)\*7+fcb6
-- AC21/25：基础10+敏调2+繁星罩衫8(盔甲)+精制品轻木盾1(盾牌)+[魔化防具4(盾牌增强)]
-- 措手不及AC19/23：基础10+繁星罩衫8(盔甲)+精制品轻木盾1(盾牌)+[魔化防具4(盾牌增强)]
+- HP101（11HD）：生命骰8+体调4+(生命骰5+体调4)\*4+(生命骰4+体调4)\*6+fcb5
+- AC19/23：基础10+敏调2+繁星罩衫6(盔甲)+精制品轻木盾1(盾牌)+[魔化防具4(盾牌增强)]
+- 措手不及AC17/21：基础10+繁星罩衫6(盔甲)+精制品轻木盾1(盾牌)+[魔化防具4(盾牌增强)]
 - 接触AC12：基础10+敏调2
 - CMD17：基础10+BAB5+力调0+敏调2
 - 强韧+14/+16：基础4+2+体调4+幸运头带1(运气)+抗力披风3(抗力)+[幸运灯塔2(崇圣)]
@@ -34,9 +34,9 @@
 
 ## 进攻
 
-- 先攻+15：敏调2+精通先攻4+翼龙魔宠4+金鹰之魂2+观星者座2(洞察)+破损的干燥玫瑰艾恩石1(表现)
+- 先攻+13：敏调2+精通先攻4+翼龙魔宠4+观星者座2(洞察)+破损的干燥玫瑰艾恩石1(表现)
 - 移动速度30尺：基础30
-- BAB：7
+- BAB：6
 
 ----
 
@@ -69,13 +69,13 @@ HR牧师本职技能：察觉，知识（本地）
 
 技能点6/等级：牧师HR/观星者4/博学士4+智调2
 
-- 飞行+16：敏调2+技能点3+本职技能3+机动性良好4+施法者等级一半4
-- 法术辨识+17/+19/+22：智调2+技能点12+本职技能3+[造物时:精制品工具2(环境)]+[化泪为酒5(增强)]
+- 飞行+15：敏调2+技能点2+本职技能3+机动性良好4+施法者等级一半4
+- 法术辨识+16/+18/+21：智调2+技能点11+本职技能3+[造物时:精制品工具2(环境)]+[化泪为酒5(增强)]
 - 知识（地理）+10/+15：智调2+技能点5+本职技能3+[化泪为酒5(增强)]
-- 知识（位面）+19/+24：智调2+技能点12+本职技能3+生于天界2(种族)+[化泪为酒5(增强)]
-- 知识（宗教）+31/+36：感调9+技能点12+本职技能3+技能专攻6+外乡来客1(背景)+[化泪为酒5(增强)]
-- 察觉+26/+31：感调9+技能点12+本职技能3+精制品工具2(环境)+[化泪为酒5(增强)]
-- 察言观色+26/+31：感调9+技能点12+本职技能3+精制品工具2(环境)+[化泪为酒5(增强)]
+- 知识（位面）+18/+23：智调2+技能点11+本职技能3+生于天界2(种族)+[化泪为酒5(增强)]
+- 知识（宗教）+30/+35：感调9+技能点11+本职技能3+技能专攻6+外乡来客1(背景)+[化泪为酒5(增强)]
+- 察觉+25/+30：感调9+技能点11+本职技能3+精制品工具2(环境)+[化泪为酒5(增强)]
+- 察言观色+25/+30：感调9+技能点11+本职技能3+精制品工具2(环境)+[化泪为酒5(增强)]
 - 医疗+13/+18：感调9+技能点1+本职技能3+[化泪为酒5(增强)]
 - 生存+15/+20：感调9+技能点3+本职技能3+[化泪为酒5(增强)]
 
@@ -125,27 +125,24 @@ HR牧师本职技能：察觉，知识（本地）
 [解除魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20magic)（解法检定+12，其中一个给魔宠）x3
 [幸运灯塔](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=beacon%20of%20luck)<sup>PCS-ISG</sup>（10min）
 [共用延迟毒发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=delay%20poison,%20communal)<sup>UC</sup>（每人1h）
-[复苏之风](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=second%20wind)<sup>PPC-EMH</sup>（回复2d8+22）
+[复苏之风](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=second%20wind)<sup>PPC-EMH</sup>（回复2d8+21）
 +[透支幸运](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=borrow%20fortune)<sup>APG</sup>（给魔宠）
 
 - 四环5+1（基础3+属性奖励2+领域1）
-[行动自如](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=freedom%20of%20movement)x2（120min）
-[神怒武器](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wrathful%20weapon)<sup>PPC-ACO</sup>（12min）
-顽强[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>（DC22）
-[消除隐形](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=invisibility%20purge)（12min）
+[行动自如](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=freedom%20of%20movement)x2（110min）
+[神怒武器](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wrathful%20weapon)<sup>PPC-ACO</sup>（11min）
+顽强[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>（DC22）x2
 +[透支幸运](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=borrow%20fortune)<sup>APG</sup>
 
-- 五环5+1（基础3+属性奖励2+领域1）
-[无相之风](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=fickle%20winds)<sup>UM</sup>（12min）
+- 五环4+1（基础2+属性奖励2+领域1）
+[无相之风](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=fickle%20winds)<sup>UM</sup>（11min）
 [维生气泡](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=life%20bubble)<sup>APG</sup>（每人1h）
 [石墙术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wall%20of%20stone)
-[生命之息](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=breath%20of%20life)（回复5d8+24）
-[神圣冰川](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=holy%20ice)<sup>UM</sup>
+[生命之息](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=breath%20of%20life)
 +[翱翔天际](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=overland%20flight)
 
-- 六环3+1（基础2+属性奖励1+领域1）
+- 六环2+1（基础1+属性奖励1+领域1）
 [医疗术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=heal)
-[金鹰之魂](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=eaglesoul)<sup>PCS-ISI</sup>
 顽强[驱逐术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dismissal)
 +[破除结界](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=break%20enchantment)
 
@@ -412,18 +409,10 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 
 <details>
 <summary>
-繁星罩衫（Coat of Many Stars, Su），+8盔甲加值
+繁星罩衫（Coat of Many Stars, Su），+6盔甲加值
 </summary>
 
 你创造出一件闪着缈缈星光的大衣，这件大衣给予你+4的盔甲加值。7级还有之后的每4级，此加值提升2点，13级这件盔甲给予你伤害减免5/挥砍。你每天可以使用此能力的时间为每先知等级1小时，使用的时间不须连续，但每次使用最少消耗1小时。
-</details>
-
-<details>
-<summary>
-观星者6级星座奥秘：驭手座（The Rider），圣域术DC16=10+4环位+2属调
-</summary>
-
-观星者能够召唤一匹骏马，让心生邪念之人无法伤害他。每日1次，观星者能够以类法术能力使用魅影驹（Phantom Steed）；该类法术能力具有光亮描述符（light descriptor），而且只有观星者能够骑乘这匹坐骑。这匹马由星光构成，如同火把（torch）一般散发着光芒。当观星者骑乘着星光战马（star-steed）时，他视为受到升阶至（heightened to）4级的圣域术（Sanctuary）影响；若他的行为打破了圣域术，则可以在1分钟后重新启动。这些效果的施法者等级等同于他的角色等级。
 </details>
 
 来自博学士：
@@ -448,8 +437,6 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 </details>
 
 6~10级：1HP
-
-12级：1HP
 
 ----
 
@@ -530,9 +517,9 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 ## 进攻
 
 - 移动速度10尺，40尺飞行（一般）
-- BAB：7
-- CMB+8：BAB7+敏调3+体型-2
-- 近战攻击命中+12：BAB7+敏调4+体型2
+- BAB：6
+- CMB+7：BAB6+敏调3+体型-2
+- 近战攻击命中+11：BAB6+敏调4+体型2
 - 近战攻击伤害-2：力调-2
 - - 啮咬，+10命中，1d3-2钝击/穿刺/挥砍
 
