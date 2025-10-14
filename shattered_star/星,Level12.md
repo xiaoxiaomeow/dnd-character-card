@@ -14,21 +14,21 @@
 - 语言：通用语，天界语，龙语
 - 职业：牧师5
 - 变体：异端
-- 职业：观星者7
+- 职业：观星者6
 - 职业：博学士1
 
 ----
 
 ## 防御
 
-- HP119（13HD）：生命骰8+体调4+(生命骰5+体调4)\*4+(生命骰4+体调4)\*8+fcb7
+- HP110（12HD）：生命骰8+体调4+(生命骰5+体调4)\*4+(生命骰4+体调4)\*7+fcb6
 - AC21/25：基础10+敏调2+繁星罩衫8(盔甲)+精制品轻木盾1(盾牌)+[魔化防具4(盾牌增强)]
 - 措手不及AC19/23：基础10+繁星罩衫8(盔甲)+精制品轻木盾1(盾牌)+[魔化防具4(盾牌增强)]
 - 接触AC12：基础10+敏调2
-- CMD20：基础10+BAB8+力调0+敏调2
+- CMD17：基础10+BAB5+力调0+敏调2
 - 强韧+14/+16：基础4+2+体调4+幸运头带1(运气)+抗力披风3(抗力)+[幸运灯塔2(崇圣)]
-- 反射+11/+13：基础1+4+敏调2+幸运头带1(运气)+抗力披风3(抗力)+[幸运灯塔2(崇圣)]
-- 意志+24/+26/+28：基础4+4+1+感调9+定心秘技2+幸运头带1(运气)+抗力披风3(抗力)+[幸运灯塔2(崇圣)]+[对抗影响心智效果:坚御心智2(洞察)]
+- 反射+10/+12：基础1+3+敏调2+幸运头带1(运气)+抗力披风3(抗力)+[幸运灯塔2(崇圣)]
+- 意志+23/+25/+27：基础4+3+1+感调9+定心秘技2+幸运头带1(运气)+抗力披风3(抗力)+[幸运灯塔2(崇圣)]+[对抗影响心智效果:坚御心智2(洞察)]
 
 ----
 
@@ -36,7 +36,7 @@
 
 - 先攻+15：敏调2+精通先攻4+翼龙魔宠4+金鹰之魂2+观星者座2(洞察)+破损的干燥玫瑰艾恩石1(表现)
 - 移动速度30尺：基础30
-- BAB：8
+- BAB：7
 
 ----
 
@@ -46,7 +46,7 @@
 - 敏捷14（+2）：骰点14
 - 体质19（+4）：骰点17+种族2
 - 智力14（+2）：骰点14
-- 感知29（+9）：骰点18+种族2+属性成长3+感知头环6(增强)
+- 感知28（+9）：骰点18+种族2+属性成长2+感知头环6(增强)
 - 魅力16（+3）：骰点16
 
 ----
@@ -69,13 +69,13 @@ HR牧师本职技能：察觉，知识（本地）
 
 技能点6/等级：牧师HR/观星者4/博学士4+智调2
 
-- 飞行+17：敏调2+技能点4+本职技能3+机动性良好4+施法者等级一半4
-- 法术辨识+18/+20/+23：智调2+技能点13+本职技能3+[造物时:精制品工具2(环境)]+[化泪为酒5(增强)]
+- 飞行+16：敏调2+技能点3+本职技能3+机动性良好4+施法者等级一半4
+- 法术辨识+17/+19/+22：智调2+技能点12+本职技能3+[造物时:精制品工具2(环境)]+[化泪为酒5(增强)]
 - 知识（地理）+10/+15：智调2+技能点5+本职技能3+[化泪为酒5(增强)]
-- 知识（位面）+20/+25：智调2+技能点13+本职技能3+生于天界2(种族)+[化泪为酒5(增强)]
-- 知识（宗教）+32/+37：感调9+技能点13+本职技能3+技能专攻6+外乡来客1(背景)+[化泪为酒5(增强)]
-- 察觉+27/+32：感调9+技能点13+本职技能3+精制品工具2(环境)+[化泪为酒5(增强)]
-- 察言观色+27/+32：感调9+技能点13+本职技能3+精制品工具2(环境)+[化泪为酒5(增强)]
+- 知识（位面）+19/+24：智调2+技能点12+本职技能3+生于天界2(种族)+[化泪为酒5(增强)]
+- 知识（宗教）+31/+36：感调9+技能点12+本职技能3+技能专攻6+外乡来客1(背景)+[化泪为酒5(增强)]
+- 察觉+26/+31：感调9+技能点12+本职技能3+精制品工具2(环境)+[化泪为酒5(增强)]
+- 察言观色+26/+31：感调9+技能点12+本职技能3+精制品工具2(环境)+[化泪为酒5(增强)]
 - 医疗+13/+18：感调9+技能点1+本职技能3+[化泪为酒5(增强)]
 - 生存+15/+20：感调9+技能点3+本职技能3+[化泪为酒5(增强)]
 
@@ -118,40 +118,35 @@ HR牧师本职技能：察觉，知识（本地）
 [压制魅惑与胁迫](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=suppress%20charms%20and%20compulsions)<sup>AG, PPC-ASoL</sup>（给魔宠）
 [优雅步伐](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=grace)<sup>APG</sup>
 [光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>（DC22）
-[第三只手](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=pilfering%20hand)<sup>UC</sup>（CMB+22）
+[第三只手](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=pilfering%20hand)<sup>UC</sup>（CMB+19）
 +[防护邪恶](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=protection%20from%20evil)
 
 - 三环6+1（基础4+属性奖励2+领域1）
-[解除魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20magic)（解法检定+14+7，其中一个给魔宠）x3
-[幸运灯塔](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=beacon%20of%20luck)<sup>PCS-ISG</sup>（13min）
+[解除魔法](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dispel%20magic)（解法检定+12，其中一个给魔宠）x3
+[幸运灯塔](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=beacon%20of%20luck)<sup>PCS-ISG</sup>（10min）
 [共用延迟毒发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=delay%20poison,%20communal)<sup>UC</sup>（每人1h）
-顽强[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>（DC22）
+[复苏之风](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=second%20wind)<sup>PPC-EMH</sup>（回复2d8+22）
 +[透支幸运](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=borrow%20fortune)<sup>APG</sup>（给魔宠）
 
-- 四环6+1（基础4+属性奖励2+领域1）
-[行动自如](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=freedom%20of%20movement)x2（130min）
-[神怒武器](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wrathful%20weapon)<sup>PPC-ACO</sup>（13min）
-[复苏之风](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=second%20wind)<sup>PPC-EMH</sup>（回复2d8+24）
-[消除隐形](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=invisibility%20purge)（13min）
-[法术灌输](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=imbue%20with%20spell%20ability)（1或2个1环法术, 和1个2环法术）
+- 四环5+1（基础3+属性奖励2+领域1）
+[行动自如](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=freedom%20of%20movement)x2（120min）
+[神怒武器](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wrathful%20weapon)<sup>PPC-ACO</sup>（12min）
+顽强[光耀爆发](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=burst%20of%20radiance)<sup>PCS-CoP</sup>（DC22）
+[消除隐形](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=invisibility%20purge)（12min）
 +[透支幸运](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=borrow%20fortune)<sup>APG</sup>
 
 - 五环5+1（基础3+属性奖励2+领域1）
-[无相之风](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=fickle%20winds)<sup>UM</sup>（13min）
+[无相之风](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=fickle%20winds)<sup>UM</sup>（12min）
 [维生气泡](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=life%20bubble)<sup>APG</sup>（每人1h）
-[灵质墙](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wall%20of%20ectoplasm)<sup>OA</sup>
-[生命之息](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=breath%20of%20life)（回复5d8+27）
+[石墙术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=wall%20of%20stone)
+[生命之息](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=breath%20of%20life)（回复5d8+24）
 [神圣冰川](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=holy%20ice)<sup>UM</sup>
 +[翱翔天际](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=overland%20flight)
 
 - 六环3+1（基础2+属性奖励1+领域1）
 [医疗术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=heal)
 [金鹰之魂](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=eaglesoul)<sup>PCS-ISI</sup>
-顽强[驱逐术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dismissal)（DC23）
-+[破除结界](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=break%20enchantment)
-
-- 七环2+1（基础1+属性奖励1+领域1）
-[极乐波](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=waves%20of%20ecstasy)<sup>UM</sup>x2
+顽强[驱逐术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dismissal)
 +[破除结界](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=break%20enchantment)
 
 ----
@@ -217,20 +212,6 @@ HR牧师本职技能：察觉，知识（本地）
 <details>
 <summary>
 11级：魔法训练秘闻（Secret of Magical Discipline）
-</summary>
-
-你对魔法的研究跟热忱，让你能够施展自身所知范围之外的法术。
-
-先决条件：秘闻职业能力。
-
-效果：每天一次，你可以施展任何法术，就好像该法术是你已准备或已知的法术之一。此动作会消耗法术位或者同环的已准备法术。若以这种方式施展法术，其最低的施法时间为1整轮。
-
-特殊说明：你可以多次选取此专长。你每次选取此专长，每天便能再多施展一次此能力。
-</details>
-
-<details>
-<summary>
-13级：魔法训练秘闻（Secret of Magical Discipline）
 </summary>
 
 你对魔法的研究跟热忱，让你能够施展自身所知范围之外的法术。
@@ -331,7 +312,7 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 
 <details>
 <summary>
-善良之触（Touch of Good, Sp），12次/日=基础3+感调9，加值6=1/2牧师等级12
+善良之触（Touch of Good, Sp），12次/日=基础3+感调9，加值5=1/2牧师等级10
 </summary>
 你能用一个标准动作来接触一个生物，使之在1轮中的攻击、技能、属性、豁免检定获得你牧师等级的一半加值（最小1）。你每天可以使用此能力次数“3+感知修正”。
 
@@ -340,7 +321,7 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 
 <details>
 <summary>
-神圣之枪（Holy Lance, Su），6轮=1/2牧师等级12
+神圣之枪（Holy Lance, Su），5轮=1/2牧师等级10
 </summary>
 在8级，你能够通过触碰使得一个武器获得“神圣”附魔，持续轮数为一半牧师等级。在8级你能够使用该能力每天1次，以后每比8级多4级增加1次。
 
@@ -423,7 +404,7 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 
 <details>
 <summary>
-观星者4级星座奥秘：慈母座（The Mother），治疗量+14
+观星者4级星座奥秘：慈母座（The Mother），治疗量+10
 </summary>
 
 观星者引导着星座群的慈爱之心。每当观星者施放一个治疗法术（cure spell）、施放生命之息（Breath of Life）或者使用治愈（Healing）巫术时，他都能够将其职业等级的两倍加到恢复的生命值上。若观星者是牧师，并且引导正能量的话，在判断引导能量的效果时可以将观星者等级与牧师等级叠加。
@@ -468,7 +449,7 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 
 6~10级：1HP
 
-12~13级：1HP
+12级：1HP
 
 ----
 
@@ -535,23 +516,23 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 
 ## 防御
 
-- HP59（1HD）：蝶生命值一半
-- AC21：基础10+体型2+敏调3+魔宠天防4(天防)
-- 措手不及AC18：基础10+体型2+魔宠天防4(天防)
+- HP50（1HD）：蝶生命值一半
+- AC20：基础10+体型2+敏调3+魔宠天防3(天防)
+- 措手不及AC17：基础10+体型2+魔宠天防3(天防)
 - 接触AC15：基础10+体型2+敏调3
 - CMD15：基础10+BAB6+力调-2+敏调3+体型-2
 - 强韧+6：基础4+2+体调0
-- 反射+10：基础1+4+敏调3+闪电反射2
-- 意志+11：基础4+4+1+感调2
+- 反射+9：基础1+3+敏调3+闪电反射2
+- 意志+10：基础4+3+1+感调2
 
 ----
 
 ## 进攻
 
 - 移动速度10尺，40尺飞行（一般）
-- BAB：8
-- CMB+9：BAB8+敏调3+体型-2
-- 近战攻击命中+13：BAB8+敏调4+体型2
+- BAB：7
+- CMB+8：BAB7+敏调3+体型-2
+- 近战攻击命中+12：BAB7+敏调4+体型2
 - 近战攻击伤害-2：力调-2
 - - 啮咬，+10命中，1d3-2钝击/穿刺/挥砍
 
@@ -562,7 +543,7 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 - 力量6（-2）：基础6
 - 敏捷17（+3）：基础17
 - 体质11（+0）：基础11
-- 智力9（-1）：基础2，魔宠智力=9
+- 智力8（-1）：基础2，魔宠智力=8
 - 感知14（+2）：基础14
 - 魅力11（+0）：基础11
 
@@ -572,9 +553,9 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 
 本职技能：攀爬，游泳，特技，飞行，隐匿，察觉，医疗，知识（宗教），察言观色
 
-- 飞行+14：敏调3+技能点max{1,4}+本职技能3+超小型4
+- 飞行+11：敏调3+技能点1+本职技能3+超小型4
 - 隐匿+11：敏调3+技能点1+本职技能3+超小型4
-- 察觉+18：感调2+技能点max{1,13}+本职技能3
+- 察觉+14：感调2+技能点max{1,9}+本职技能3
 
 ----
 
@@ -654,12 +635,4 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 </summary>
 
 如果主人等级为5级或者更高，魔宠和主人之间可以通过语言来交流，就像他们正在使用通用语交谈一样。其他生物在没有魔法帮助的情况下无法理解这种交流的内容。
-</details>
-
-<details>
-<summary>
-与动物同类交谈（Speak with Animals of Its Kind, Ex）
-</summary>
-
-如果主人等级为7级或更高，魔宠就可以和它近似种类的动物进行交流（包括凶暴动物）：蝙蝠与蝙蝠，老鼠与啮齿动物，猫与猫科动物，猎鹰、猫头鹰、渡鸦与鸟类，蜥蜴和蛇与爬虫类动物，蟾蜍与两栖动物，鼬与类似动物（鼬，水貂，斑纹臭鼬，白鼬，臭鼬，狼獾，獾）。它们之间的交流受对像生物智力的限制。
 </details>
