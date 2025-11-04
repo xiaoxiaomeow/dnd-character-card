@@ -14,19 +14,19 @@
 - 语言：通用语，天界语，龙语
 - 职业：牧师5
 - 变体：异端
-- 职业：观星者8
+- 职业：观星者7
 - 职业：博学士1
 
 ----
 
 ## 防御
 
-- HP128（14HD）：生命骰8+体调4+(生命骰5+体调4)\*4+(生命骰4+体调4)\*9+fcb8
+- HP119（13HD）：生命骰8+体调4+(生命骰5+体调4)\*4+(生命骰4+体调4)\*8+fcb7
 - AC21/25：基础10+敏调2+繁星罩衫8(盔甲)+精制品轻木盾1(盾牌)+[魔化防具4(盾牌增强)]
 - 措手不及AC19/23：基础10+繁星罩衫8(盔甲)+精制品轻木盾1(盾牌)+[魔化防具4(盾牌增强)]
 - 接触AC12：基础10+敏调2
-- CMD21：基础10+BAB9+力调0+敏调2
-- 强韧+15/+17：基础4+3+体调4+幸运头带1(运气)+抗力披风3(抗力)+[幸运灯塔2(崇圣)]
+- CMD20：基础10+BAB8+力调0+敏调2
+- 强韧+14/+16：基础4+2+体调4+幸运头带1(运气)+抗力披风3(抗力)+[幸运灯塔2(崇圣)]
 - 反射+11/+13：基础1+4+敏调2+幸运头带1(运气)+抗力披风3(抗力)+[幸运灯塔2(崇圣)]
 - 意志+24/+26/+28：基础4+4+1+感调9+定心秘技2+幸运头带1(运气)+抗力披风3(抗力)+[幸运灯塔2(崇圣)]+[对抗影响心智效果:坚御心智2(洞察)]
 
@@ -36,7 +36,7 @@
 
 - 先攻+15：敏调2+精通先攻4+翼龙魔宠4+金鹰之魂2+观星者座2(洞察)+破损的干燥玫瑰艾恩石1(表现)
 - 移动速度30尺：基础30
-- BAB：9
+- BAB：8
 
 ----
 
@@ -144,16 +144,14 @@ HR牧师本职技能：察觉，知识（本地）
 [神圣冰川](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=holy%20ice)<sup>UM</sup>
 +[翱翔天际](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=overland%20flight)
 
-- 六环4+1（基础2+属性奖励1+领域1）
+- 六环3+1（基础2+属性奖励1+领域1）
 [医疗术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=heal)
 [金鹰之魂](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=eaglesoul)<sup>PCS-ISI</sup>
-[放逐术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=banishment)（DC25）
 顽强[驱逐术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=dismissal)（DC23）
 +[破除结界](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=break%20enchantment)
 
-- 七环3+1（基础1+属性奖励1+领域1）
+- 七环2+1（基础1+属性奖励1+领域1）
 [极乐波](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=waves%20of%20ecstasy)<sup>UM</sup>x2
-顽强[异界传送](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=plane%20shift)（DC24）
 +[破除结界](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=break%20enchantment)
 
 ----
@@ -447,14 +445,6 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 观星者能够召唤一匹骏马，让心生邪念之人无法伤害他。每日1次，观星者能够以类法术能力使用魅影驹（Phantom Steed）；该类法术能力具有光亮描述符（light descriptor），而且只有观星者能够骑乘这匹坐骑。这匹马由星光构成，如同火把（torch）一般散发着光芒。当观星者骑乘着星光战马（star-steed）时，他视为受到升阶至（heightened to）4级的圣域术（Sanctuary）影响；若他的行为打破了圣域术，则可以在1分钟后重新启动。这些效果的施法者等级等同于他的角色等级。
 </details>
 
-<details>
-<summary>
-观星者8级星座奥秘：闺女座（The Daughter）
-</summary>
-
-闺女座能用春季的到来以及万物的新生鼓舞人心。观星者和10尺范围内的所有盟友会在对抗恐惧（fear）的豁免检定中获得+4士气加值，通过威吓技能挫败士气（demoralize）的DC也会增加4点。观星者免疫恶魔创造的恐惧效果（fear effects）。
-</details>
-
 来自博学士：
 
 <details>
@@ -478,7 +468,7 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 
 6~10级：1HP
 
-12~14级：1HP
+12~13级：1HP
 
 ----
 
@@ -545,12 +535,12 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 
 ## 防御
 
-- HP64（1HD）：蝶生命值一半
+- HP59（1HD）：蝶生命值一半
 - AC21：基础10+体型2+敏调3+魔宠天防4(天防)
 - 措手不及AC18：基础10+体型2+魔宠天防4(天防)
 - 接触AC15：基础10+体型2+敏调3
-- CMD18：基础10+BAB9+力调-2+敏调3+体型-2
-- 强韧+7：基础4+3+体调0
+- CMD15：基础10+BAB6+力调-2+敏调3+体型-2
+- 强韧+6：基础4+2+体调0
 - 反射+10：基础1+4+敏调3+闪电反射2
 - 意志+11：基础4+4+1+感调2
 
@@ -559,9 +549,9 @@ hr：领域等级达到10级后，原本需要标准动作使用或激活的领�
 ## 进攻
 
 - 移动速度10尺，40尺飞行（一般）
-- BAB：9
-- CMB+10：BAB9+敏调3+体型-2
-- 近战攻击命中+14：BAB9+敏调4+体型2
+- BAB：8
+- CMB+9：BAB8+敏调3+体型-2
+- 近战攻击命中+13：BAB8+敏调4+体型2
 - 近战攻击伤害-2：力调-2
 - - 啮咬，+10命中，1d3-2钝击/穿刺/挥砍
 
