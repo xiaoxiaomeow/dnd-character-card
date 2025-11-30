@@ -12,7 +12,7 @@
 - [冬临天下，人类牧师 星](reign_of_winter/星.md)（车了但没参团）
 - [四季鬼志，疾旋鼬牧师 花](season_of_ghosts/花.md)（结团）
 - [破碎魔星，神裔牧师 星](shattered_star/星.md)
-- [地狱复仇重置，龙裔神卫 星](hell's_vengeance_remake/星.md)
+- [地狱复仇重置，龙裔神卫 星](hell's_vengeance_remake/星.md)（结团）
 - [钢铁诸神 半精灵施法秘学 星](iron_gods/秘学星.md)（废案）
 - [钢铁诸神 半精灵牧师 星](iron_gods/牧师星.md)（废案）
 - [钢铁诸神 半精灵菜刀秘学 星](iron_gods/星.md)
@@ -20,4 +20,5 @@
 - [拥王者 伽瑟兰操念使 光](kingmaker/光.md)（炸团）
 - [赤凰斗士 半精灵游侠 星](ruby_phoenix/星.md)（炸团）
 - [拥王者重置 半身人炼金术士 光](kingmaker_remake/光.md)（炸团）
-- [咒怨 伽瑟兰魔法少女 蝶](malevolence/蝶.md)
+- [咒怨 伽瑟兰魔法少女 蝶](malevolence/蝶.md)（好像咕咕了）
+- [沙尖七灾 半精灵神术女巫 星](seven_dooms_for_sandpoint/星.md)
