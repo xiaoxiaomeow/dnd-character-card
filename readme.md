@@ -23,3 +23,4 @@
 - [咒怨 伽瑟兰魔法少女 蝶](malevolence/蝶.md)（好像咕咕了）
 - [沙尖七灾 半精灵神术女巫 星](seven_dooms_for_sandpoint/星.md)（没开团就炸了）
 - [断锁碎鸣 人类牧师 星](broken_chains/星.md)
+- [地狱破灭 半精灵秘学 星](hellfire_crisis/星.md)
