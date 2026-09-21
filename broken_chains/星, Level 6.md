@@ -11,30 +11,30 @@
 - 体重：102磅
 - 体型：中型
 - 语言：通用语
-- 职业：牧师7
+- 职业：牧师6
 - 变体：异端
 
 ----
 
 ## 防御
 
-- HP52（7HD）：生命骰8+体调2+(生命骰5+体调2)*5
-- AC21：基础10+敏调6+常驻法师护甲4(盔甲)+[加速术1(闪避)]+恒定缩小术1(体型)
-- 措手不及AC15：基础10+常驻法师护甲4(盔甲)+恒定缩小术1(体型)
-- 接触AC16：基础10+敏调6+[加速术1(闪避)]+恒定缩小术1(体型)
-- CMD17：基础10+BAB5+力调-3+敏调6+恒定缩小术-1(体型)
+- HP45（6HD）：生命骰8+体调2+(生命骰5+体调2)*5
+- AC19：基础10+敏调5+常驻法师护甲4(盔甲)+[加速术1(闪避)]
+- 措手不及AC14：基础10+常驻法师护甲4(盔甲)
+- 接触AC15：基础10+敏调5+[加速术1(闪避)]
+- CMD16：基础10+BAB4+力调-3+敏调5+恒定缩小术-1(体型)
 - 强韧+8：基础5+体调2+抗力斗篷1(抗力)
-- 反射+9：基础2+敏调6+抗力斗篷1(抗力)
+- 反射+8：基础2+敏调5+抗力斗篷1(抗力)
 - 意志+9：基础5+感调3+抗力斗篷1(抗力)
 
 ----
 
 ## 进攻
 
-- 先攻+7：敏调6+精通先攻2+常驻强化认知2(表现)
+- 先攻+7：敏调5+精通先攻2
 - 移动速度30尺：基础30
-- BAB：5
-- 远程攻击命中+11：BAB5+敏调6+长弓1(增强)+致命瞄准-2+[快速射击-2]+[近距射击1]+[强大希望3(士气)]+[神恩2(运气)]+[加速术1]
+- BAB：4
+- 远程攻击命中+9：BAB4+敏调5+长弓1(增强)+致命瞄准-2+[快速射击-2]+[近距射击1]+[强大希望3(士气)]+[神恩2(运气)]+[加速术1]
 - 远程攻击伤害+1+2d3：长弓1(增强)+致命瞄准+2d3+[快速射击-2]+[近距射击1]+[强大希望3(士气)]+[神恩2(运气)]+[敬畏武器2(崇圣)]
 - - +1传导长弓，+11命中，1d8+1+2d3穿刺，20/x3，100尺
 
@@ -42,8 +42,8 @@
 
 ## 属性
 
-- 力量5（-3）：购点7+恒定缩小术-2(体型)
-- 敏捷22（+6）：购点17+种族2+属性成长1+恒定缩小术2(体型)
+- 力量7（-2）：购点7
+- 敏捷20（+5）：购点17+种族2+属性成长1
 - 体质13（+1）：购点13
 - 智力7（-2）：购点7
 - 感知16（+3）：购点16
@@ -67,7 +67,7 @@
 - 医疗+7：感调3+技能点1+本职技能3
 - 察觉+6：感调3+技能点1
 - 生存+4：感调3+技能点1
-- UMD+7：魅调0+技能点7
+- UMD+5：魅调0+技能点5
 
 ----
 
@@ -88,23 +88,18 @@
 [造水术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=create%20water)
 [侦测毒性](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=detect%20poison)
 [神导术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=guidance)
-- 一环5+1（基础4+属性奖励1+领域1）
-[神恩](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=divine%20favor)x4
+- 一环4+1（基础3+属性奖励1+领域1）
+[神恩](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=divine%20favor)x3
 [脱困指令](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=liberating%20command)<sup>UC</sup>
 +[隐雾术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=obscuring%20mist)
 - 二环4+1（基础3+属性奖励1+领域1）
 [沉默术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=silence)
 [移除麻痹](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=remove%20paralysis)
-[敬畏武器](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=weapon%20of%20awe)<sup>APG</sup>
-[识破隐形](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=see%20invisibility)
+[敬畏武器](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=weapon%20of%20awe)<sup>APG</sup>x2
 +及远[狂笑术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=hideous%20laughter)
 - 三环3+1（基础2+属性奖励1+领域1）
-[导引精气](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=channel%20vigor)<sup>PCS-ISG</sup>
-[隐形法球](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=invisibility%20sphere)
+[导引精气](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=channel%20vigor)<sup>PCS-ISG</sup>x2
 及远[水中呼吸](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=water%20breathing)
-+及远[强大希望](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=good%20hope)
-- 四环1+1（基础1+属性奖励1+领域1）
-[神能](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=divine%20power)
 +及远[强大希望](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=good%20hope)
 
 ----
@@ -187,18 +182,6 @@
 
 <details>
 <summary>
-7级：怪异梦景 (Dreamed Secrets) <sup>PCS-ISG</sup>
-</summary>
-
-When you sleep you gain secrets from beyond the stars, but such power comes with a price.
-
-先决条件: 能够施放神术，拥有7个施法者等级，信仰旧日支配者或者外神。
-
-专长效果: 每夜休息时，你可以从法师法师列表中选择2个法术，如果你是一个自发施法者，你可以视为在接下来24小时内知晓这些法术；如果你是准备施法者，那么你可以在24小时内准备这些法术。这两个法师法术必须至少比你能施放的最高神术环数低1环。在施放这两个法术时，你必须通过一个DC20的意志检定，否则将施法失败并受到1d2感知伤害，但你不会失去这个法术。
-</details>
-
-<details>
-<summary>
 HR赠送：致命瞄准 (Deadly Aim) <sup>CRB</sup>〔战斗〕，-2+2d3
 </summary>
 
@@ -242,7 +225,7 @@ HR赠送：致命瞄准 (Deadly Aim) <sup>CRB</sup>〔战斗〕，-2+2d3
 
 <details>
 <summary>
-引导能量（Channel Energy, Su），正能量，5次/日=基础3+魅调0+额外引导2，4d6，DC13=10+1/2牧师等级7+魅调0
+引导能量（Channel Energy, Su），正能量，5次/日=基础3+魅调0+额外引导2，3d6，DC13=10+1/2牧师等级6+魅调0
 </summary>
 
 无论阵营，任何牧师都能通过圣徽(或邪徽)来释放源自信仰的能量波。这种能量可以用来治疗或者造成伤害，取决于能量类型和目标物种。一个善良牧师（或者信奉善良神）引导正能量，可以伤害不死生物或者用于治疗活物。一个邪恶牧师（或者信奉邪恶神）引导负能量，用于对活物造成伤害或者治疗不死生物。信奉中立神的中立牧师（或者无神牧师）必须选择引导正能量还是负能量，一旦确定不能更改。这个选择还决定牧师是自发治疗法术还是造成伤害法术。
@@ -267,7 +250,7 @@ Granted powers from the cleric's second domain function as if the cleric's level
 
 <details>
 <summary>
-冰柱（Icicle, Sp），8次/日=基础3+感调3+FCB2，伤害4d6寒冷
+冰柱（Icicle, Sp），8次/日=基础3+感调3+FCB2，伤害3d6寒冷
 </summary>
 
 你可以用一个标准动作从指尖射出一段冰柱，对30英尺内的目标敌人造成远程接触攻击。冰柱造成“1d6+1/2牧师等级”寒冷伤害。你每日可使用此能力的次数为“3+感知修正”。
@@ -337,6 +320,30 @@ Granted powers from the cleric's second domain function as if the cleric's level
 每当你到达5的倍数级，你可以选择一个超魔专长，使用这个超魔专长调整你的领域法术时调整等级-1，最低为0，不能重复选择同一个超魔专长。
 </details>
 
+### 混职术士
+
+<details>
+<summary>
+血统（Bloodline），奥秘（Arcane）
+</summary>
+
+1级时，选择一个术士血统（Sorcerer bloodline）。在全部的血统力量（bloodline powers）上，将角色等级视为有效术士等级。
+</details>
+
+<details>
+<summary>
+血统力量（Bloodline Power），奥术联结（Arcane Bond, Su），联结物品长弓
+</summary>
+
+3级时，获得血统的1级血统力量。
+
+选择联结物品的法师在开始时免费获得一个连接物品。作为奥术联结的物品必须作为下列形式中的一种出现：护符、戒指、法杖、魔杖或者武器。这些物品总是精制品。在1级获得的联结武器不能由任何特殊材料制成。如果物品是护符或者戒指，则必须有效佩带；法杖、魔杖、武器则需要手持。如果法师试图在没有佩带或持有联结物品的情况下施法，则必须做一次专注检定以免失去法术，DC等于“20+法术环级”。如果物品是护符或者戒指，则需要占据戒指或项链的位置。每天一次，联结物品能够被用来施放任何存在于法师法术书中，并且法师本人能够施展的法术，即使此法术没有被准备。这个法术视同法师正常施展的其他法术，包括施法时间，持续时间和其他由法师等级来决定的效果。此法术不能被添加超魔专长或者其他能力。联结物品不能用来施展对立学派的法术（见奥术学派）。
+
+法师能够给自己的联结物品添加魔法能力，如同他拥有必要的物品制造专长，前提是他必须达到该专长的条件等级。举例来说，一个拥有联结匕首的法师至少在5级以后才能给自己的匕首添加魔法能力（参见“制造魔法武器和盔甲”专长）。如果他的联结物品为魔杖，当它被耗尽时将会失去魔杖能力，但不会被摧毁而是保留所有联结物品能力，并且能够被再次做成新魔杖（火球杖用完以后还原成普通魔杖，还可以再被做成石皮杖）。联结物品的魔法属性，包括任何添加魔法能力，仅在其法师拥有者的手中才能发挥作用。如果持有者死亡，或者联结物品被取代，则原有联结物品被还原为普通精制品。
+
+如果联结物品损伤，会在法师下一次准备法术时完全恢复。如果联结物品损坏或者遗失，则法师能够在7天后通过消耗每法师等级200gp重新制作一个精制品取而代之。这个仪式完成需要8小时。通过这个方式被替换的物品不再拥有以前物品的添加能力。法师同样能够指定一个现有魔法物品作为他的联结物品。此项职能视同于联结物品损坏或遗失，除了新物品会在获得联结物品优缺点的同时保留原有能力。
+</details>
+
 ----
 
 ## 天赋职业奖励
@@ -350,7 +357,7 @@ Granted powers from the cleric's second domain function as if the cleric's level
 
 <details>
 <summary>
-3~7级：精灵，冰柱
+3~6级：精灵，冰柱
 </summary>
 选择一种1级获得并且每日使用次数为“3+牧师感知修正”的领域之力。这个领域之力的每日使用次数+1/2。
 </details>
@@ -361,7 +368,7 @@ Granted powers from the cleric's second domain function as if the cleric's level
 
 负重：20磅/40磅/60磅
 
-小型等效负重：30磅/60磅/90磅
+<!--小型等效负重：30磅/60磅/90磅-->
 
 ### 身上的物品
 
@@ -377,9 +384,9 @@ Granted powers from the cleric's second domain function as if the cleric's level
 - <details><summary>改之理赛钱箱 1000gp -</summary>这个圆形金属赛钱箱足够容纳钱币大小的木制代币。代币的两面画有不同的祈祷文。每天一次，一个牧师（或者有牧师领域能力的其它职业）可以激活赛钱箱，将已经准备好的一个领域法术转换为另一个领域同环的领域法术。例如，一个火领域和幸运领域的牧师可以将准备好的1环领域法术燃烧之手转换为克敌机先。这个赛钱箱对于没有领域法术和只有1个领域的家伙们没用。</details>
 - [激励法术](https://xiaoxiaomeow.github.io/pathfinder/feat?feat=encouraging%20spell)权杖 4000gp 5磅
 - [法师护甲](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mage%20armor)魔杖 750gp - 常驻
-- [强化认知](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mage%20armor)魔杖 750gp - 常驻
-[转进战术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=fallback%20strategy)<sup>PCS-ISG</sup>魔杖 750gp - 未开启强大希望时常驻
-- [光荣时刻](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=moment%20of%20greatness)<sup>UC</sup>魔杖 750gp - 开启强大希望时常驻
+<!--- [强化认知](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=mage%20armor)魔杖 750gp - 常驻-->
+<!--- [转进战术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=fallback%20strategy)<sup>PCS-ISG</sup>魔杖 750gp - 未开启强大希望时常驻-->
+<!--- - - [光荣时刻](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=moment%20of%20greatness)<sup>UC</sup>魔杖 750gp - 开启强大希望时常驻-->
 - [治疗轻伤](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=cure%20light%20wounds)魔杖 750gp -
 - [移除恶心](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=remove%20sickness)<sup>UM</sup>卷轴 25gp -
 - [永固之心](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=unbreakable%20heart)<sup>PCS-ISWG</sup>卷轴 25gp
@@ -387,9 +394,9 @@ Granted powers from the cleric's second domain function as if the cleric's level
 - 长弓 75gp 3磅
 - 匕首 2gp 1磅
 
-### 其它购物项目
+<!--- ### 其它购物项目
 
-- [恒定](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=permanency)[缩小术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=reduce%20person) 450+10+2500gp
+- [恒定](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=permanency)[缩小术](https://xiaoxiaomeow.github.io/pathfinder/spell?spell=reduce%20person) 450+10+2500gp-->
 
 剩余188gp
 
